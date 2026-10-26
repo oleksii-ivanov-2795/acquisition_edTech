@@ -15547,408 +15547,408 @@ user_id,created_at,acquisition_channel,campaign_id,landing_variant,device,countr
 25546,2026-10-24 15:49:13,social broad,c_social_broad_scale,variant_B,desktop,de
 25547,2026-10-25 18:44:46,search,c_google_search,variant_b,mobile,US
 25548,2026-10-25 17:45:44,Search,c_google_search,variant_A,desktop,
-25549,2026-10-25 11:20:42,Search,c_google_search,variant_a,mobile,de
+25549,2026-10-25 11:20:42,Search,c_google_search,variant_a,desktop,de
 25550,2026-10-25 03:50:57,search,c_google_search,variant_A,mobile,CA
 25551,2026-10-25 09:03:06,search,c_google_search,variant_A,mobile,UK
 25552,2026-10-25 06:01:47,search,c_google_search,variant_A,mobile,UK
-25553,2026-10-25 17:22:28,search,c_google_search,Variant_a,tablet,DE
-25554,2026-10-25 11:54:24,Search,c_google_search,Variant_b,mobile,CA
+25553,2026-10-25 17:22:28,search,c_google_search,Variant_a,mobile,DE
+25554,2026-10-25 11:54:24,Search,c_google_search,Variant_b,tablet,CA
 25555,2026-10-25 15:42:54,search,c_google_search,variant_B,mobile,de
-25556,2026-10-25 19:58:04,Search,c_google_search,variant_a,desktop,de
-25557,2026-10-25 01:00:06,search,c_google_search,Variant_a,desktop,FR
-25558,2026-10-25 02:39:00,search,c_google_search,Variant_a,mobile,US
+25556,2026-10-25 19:58:04,Search,c_google_search,variant_a,mobile,de
+25557,2026-10-25 01:00:06,search,c_google_search,Variant_a,mobile,FR
+25558,2026-10-25 02:39:00,search,c_google_search,Variant_a,desktop,US
 25559,2026-10-25 06:24:46,Search,c_google_search,variant_a,desktop,ca
-25560,2026-10-25 20:16:48,Search,c_google_search,variant_A,desktop,de
+25560,2026-10-25 20:16:48,Search,c_google_search,variant_A,mobile,de
 25561,2026-10-25 06:57:42,Search,c_google_search,variant_a,desktop,US
-25562,2026-10-25 06:06:15,Search,c_google_search,variant_A,tablet,ca
-25563,2026-10-25 15:20:09,search,c_google_search,Variant_b,mobile,FR
+25562,2026-10-25 06:06:15,Search,c_google_search,variant_A,desktop,ca
+25563,2026-10-25 15:20:09,search,c_google_search,Variant_b,desktop,FR
 25564,2026-10-25 23:42:06,search,c_google_search,variant_A,desktop,CA
-25565,2026-10-25 16:00:19,Search,c_google_search,variant_b,mobile,FR
+25565,2026-10-25 16:00:19,Search,c_google_search,variant_b,tablet,FR
 25566,2026-10-25 03:41:21,Search,c_google_search,Variant_a,,US
 25567,2026-10-25 09:08:32,search,c_google_search,variant_A,desktop,US
-25568,2026-10-25 00:21:14,search,c_google_search,Variant_a,desktop,ca
-25569,2026-10-25 15:08:56,search,c_google_search,variant_A,desktop,
-25570,2026-10-25 19:17:03,search,c_google_search,Variant_b,mobile,US
-25571,2026-10-25 14:53:15,Search,c_google_search,variant_a,desktop,de
-25572,2026-10-25 22:22:16,Search,c_google_search,Variant_a,mobile,US
+25568,2026-10-25 00:21:14,search,c_google_search,Variant_a,tablet,ca
+25569,2026-10-25 15:08:56,search,c_google_search,variant_A,mobile,
+25570,2026-10-25 19:17:03,search,c_google_search,Variant_b,desktop,US
+25571,2026-10-25 14:53:15,Search,c_google_search,variant_a,mobile,de
+25572,2026-10-25 22:22:16,Search,c_google_search,Variant_a,desktop,US
 25573,2026-10-25 09:14:58,search,c_google_search,Variant_a,desktop,US
 25574,2026-10-25 23:58:02,Search,c_google_search,variant_A,desktop,US
 25575,2026-10-25 05:54:44,Social,c_fb_retargeting,variant_A,mobile,us
-25576,2026-10-25 22:37:58,Social,c_fb_retargeting,variant_A,mobile,FR
-25577,2026-10-25 06:44:04,fb / social,c_fb_retargeting,Variant_a,desktop,
+25576,2026-10-25 22:37:58,Social,c_fb_retargeting,variant_A,desktop,FR
+25577,2026-10-25 06:44:04,fb / social,c_fb_retargeting,Variant_a,mobile,
 25578,2026-10-25 16:41:47,fb / social,c_fb_retargeting,variant_A,mobile,uk
-25579,2026-10-25 19:11:53,Social,c_fb_retargeting,Variant_a,mobile,US
+25579,2026-10-25 19:11:53,Social,c_fb_retargeting,Variant_a,desktop,US
 25580,2026-10-25 04:58:34,fb / social,c_fb_retargeting,variant_A,desktop,CA
-25581,2026-10-25 14:32:14,Social,c_fb_retargeting,variant_a,mobile,DE
-25582,2026-10-25 12:31:25,Social,c_fb_retargeting,Variant_a,mobile,FR
-25583,2026-10-25 03:02:29,fb / social,c_fb_retargeting,variant_A,desktop,us
-25584,2026-10-25 16:57:11,Social,c_fb_retargeting,Variant_a,desktop,ca
+25581,2026-10-25 14:32:14,Social,c_fb_retargeting,variant_a,desktop,DE
+25582,2026-10-25 12:31:25,Social,c_fb_retargeting,Variant_a,desktop,FR
+25583,2026-10-25 03:02:29,fb / social,c_fb_retargeting,variant_A,mobile,us
+25584,2026-10-25 16:57:11,Social,c_fb_retargeting,Variant_a,mobile,ca
 25585,2026-10-25 10:56:50,Social,c_fb_retargeting,variant_b,mobile,US
 25586,2026-10-25 01:30:21,Social,c_fb_retargeting,Variant_a,desktop,CA
 25587,2026-10-25 22:03:18,Social,c_fb_retargeting,variant_a,mobile,US
-25588,2026-10-25 20:34:34,fb / social,c_fb_retargeting,Variant_b,desktop,UK
-25589,2026-10-25 02:43:43,fb / social,c_fb_retargeting,variant_a,desktop,US
-25590,2026-10-25 08:21:38,Social,c_fb_retargeting,Variant_a,desktop,ca
-25591,2026-10-25 12:56:40,fb / social,c_fb_retargeting,variant_A,desktop,ca
+25588,2026-10-25 20:34:34,fb / social,c_fb_retargeting,Variant_b,mobile,UK
+25589,2026-10-25 02:43:43,fb / social,c_fb_retargeting,variant_a,tablet,US
+25590,2026-10-25 08:21:38,Social,c_fb_retargeting,Variant_a,mobile,ca
+25591,2026-10-25 12:56:40,fb / social,c_fb_retargeting,variant_A,mobile,ca
 25592,2026-10-25 19:52:05,Social,c_fb_retargeting,variant_A,desktop,USA
 25593,2026-10-25 21:01:22,Social,c_fb_retargeting,variant_A,mobile,ca
-25594,2026-10-25 03:41:28,Social,c_fb_retargeting,variant_a,desktop,USA
+25594,2026-10-25 03:41:28,Social,c_fb_retargeting,variant_a,mobile,USA
 25595,2026-10-25 11:56:45,fb / social,c_fb_retargeting,variant_a,desktop,US
 25596,2026-10-25 05:23:57,Social,c_fb_retargeting,variant_A,desktop,US
 25597,2026-10-25 00:53:19,Social,c_fb_retargeting,Variant_a,desktop,de
 25598,2026-10-25 17:28:14,fb / social,c_fb_retargeting,Variant_a,mobile,us
 25599,2026-10-25 11:35:28,fb / social,c_fb_retargeting,variant_B,desktop,FR
-25600,2026-10-25 01:39:36,fb / social,c_fb_retargeting,Variant_a,mobile,de
+25600,2026-10-25 01:39:36,fb / social,c_fb_retargeting,Variant_a,desktop,de
 25601,2026-10-25 20:04:01,Social,c_fb_retargeting,Variant_a,mobile,
 25602,2026-10-25 11:03:29,Affiliate,c_blogs_affiliate,Variant_a,mobile,ca
-25603,2026-10-25 11:53:40,affiliate,c_blogs_affiliate,variant_a,mobile,US
-25604,2026-10-25 06:19:48,Affiliate,c_blogs_affiliate,variant_A,mobile,USA
+25603,2026-10-25 11:53:40,affiliate,c_blogs_affiliate,variant_a,desktop,US
+25604,2026-10-25 06:19:48,Affiliate,c_blogs_affiliate,variant_A,desktop,USA
 25605,2026-10-25 07:01:32,Affiliate,c_blogs_affiliate,variant_b,desktop,USA
-25606,2026-10-25 19:23:30,Affiliate,c_blogs_affiliate,variant_a,mobile,USA
+25606,2026-10-25 19:23:30,Affiliate,c_blogs_affiliate,variant_a,desktop,USA
 25607,2026-10-25 04:41:35,affiliate,c_blogs_affiliate,variant_a,desktop,de
-25608,2026-10-25 15:25:43,Affiliate,c_blogs_affiliate,Variant_a,mobile,FR
+25608,2026-10-25 15:25:43,Affiliate,c_blogs_affiliate,Variant_a,desktop,FR
 25609,2026-10-25 01:33:23,Affiliate,c_blogs_affiliate,Variant_a,mobile,FR
 25610,2026-10-25 21:42:09,video,c_youtube_tech,Variant_a,mobile,de
 25611,2026-10-25 20:33:49,Video,c_youtube_tech,Variant_a,desktop,CA
 25612,2026-10-25 18:06:33,Video,c_youtube_tech,variant_a,desktop,FR
 25613,2026-10-25 13:06:26,video,c_youtube_tech,Variant_a,mobile,uk
-25614,2026-10-25 02:06:48,video,c_youtube_tech,Variant_b,mobile,US
+25614,2026-10-25 02:06:48,video,c_youtube_tech,Variant_b,desktop,US
 25615,2026-10-25 18:22:05,Video,c_youtube_tech,variant_b,desktop,USA
-25616,2026-10-25 01:34:05,Video,c_youtube_tech,Variant_a,desktop,us
-25617,2026-10-25 18:22:56,video,c_youtube_tech,Variant_b,desktop,de
+25616,2026-10-25 01:34:05,Video,c_youtube_tech,Variant_a,mobile,us
+25617,2026-10-25 18:22:56,video,c_youtube_tech,Variant_b,mobile,de
 25618,2026-10-25 10:57:38,Video,c_youtube_tech,variant_a,desktop,US
 25619,2026-10-25 08:36:14,Video,c_youtube_tech,variant_a,mobile,US
 25620,2026-10-25 06:52:09,Video,c_youtube_tech,variant_A,mobile,uk
-25621,2026-10-25 11:53:45,video,c_youtube_tech,variant_a,desktop,uk
-25622,2026-10-25 00:23:47,Video,c_youtube_tech,variant_a,mobile,US
-25623,2026-10-25 00:38:01,Video,c_youtube_tech,variant_B,desktop,
-25624,2026-10-25 06:38:07,Video,c_youtube_tech,Variant_a,mobile,CA
+25621,2026-10-25 11:53:45,video,c_youtube_tech,variant_a,mobile,uk
+25622,2026-10-25 00:23:47,Video,c_youtube_tech,variant_a,desktop,US
+25623,2026-10-25 00:38:01,Video,c_youtube_tech,variant_B,mobile,
+25624,2026-10-25 06:38:07,Video,c_youtube_tech,Variant_a,desktop,CA
 25625,2026-10-25 01:17:43,video,c_youtube_tech,variant_a,mobile,UK
-25626,2026-10-25 20:23:26,video,c_youtube_tech,variant_b,desktop,US
+25626,2026-10-25 20:23:26,video,c_youtube_tech,variant_b,mobile,US
 25627,2026-10-25 10:32:24,video,c_youtube_tech,variant_a,desktop,FR
-25628,2026-10-25 21:37:40,video,c_youtube_tech,variant_a,desktop,US
-25629,2026-10-25 22:27:50,video,c_youtube_tech,Variant_a,tablet,US
+25628,2026-10-25 21:37:40,video,c_youtube_tech,variant_a,mobile,US
+25629,2026-10-25 22:27:50,video,c_youtube_tech,Variant_a,desktop,US
 25630,2026-10-25 11:40:08,Video,c_youtube_tech,variant_A,desktop,us
 25631,2026-10-25 21:13:42,social broad,c_social_broad_scale,variant_a,desktop,USA
 25632,2026-10-25 01:55:46,social broad,c_social_broad_scale,variant_B,mobile,CA
 25633,2026-10-25 10:59:51,Social Broad,c_social_broad_scale,variant_b,desktop,us
-25634,2026-10-25 08:56:57,social broad,c_social_broad_scale,variant_b,desktop,FR
+25634,2026-10-25 08:56:57,social broad,c_social_broad_scale,variant_b,mobile,FR
 25635,2026-10-25 19:53:37,social broad,c_social_broad_scale,Variant_b,mobile,DE
-25636,2026-10-25 04:04:54,social broad,c_social_broad_scale,Variant_b,desktop,UK
-25637,2026-10-25 04:52:23,social broad,c_social_broad_scale,Variant_a,mobile,UK
-25638,2026-10-25 14:39:53,social broad,c_social_broad_scale,variant_B,desktop,UK
+25636,2026-10-25 04:04:54,social broad,c_social_broad_scale,Variant_b,mobile,UK
+25637,2026-10-25 04:52:23,social broad,c_social_broad_scale,Variant_a,desktop,UK
+25638,2026-10-25 14:39:53,social broad,c_social_broad_scale,variant_B,mobile,UK
 25639,2026-10-25 17:21:02,social broad,c_social_broad_scale,Variant_b,desktop,CA
 25640,2026-10-25 16:49:27,social broad,c_social_broad_scale,Variant_b,mobile,ca
 25641,2026-10-25 08:32:34,social broad,c_social_broad_scale,variant_b,,CA
-25642,2026-10-25 23:58:49,social broad,c_social_broad_scale,Variant_b,mobile,DE
+25642,2026-10-25 23:58:49,social broad,c_social_broad_scale,Variant_b,desktop,DE
 25643,2026-10-25 18:27:10,social broad,c_social_broad_scale,Variant_b,mobile,UK
 25644,2026-10-25 01:13:31,Social Broad,c_social_broad_scale,variant_b,desktop,ca
 25645,2026-10-25 19:25:26,social broad,c_social_broad_scale,variant_a,desktop,UK
 25646,2026-10-25 15:26:39,social broad,c_social_broad_scale,variant_B,desktop,USA
-25647,2026-10-25 02:04:27,social broad,c_social_broad_scale,variant_B,desktop,FR
-25648,2026-10-25 01:00:12,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
+25647,2026-10-25 02:04:27,social broad,c_social_broad_scale,variant_B,tablet,FR
+25648,2026-10-25 01:00:12,Social Broad,c_social_broad_scale,Variant_b,mobile,uk
 25649,2026-10-25 21:34:39,social broad,c_social_broad_scale,variant_B,mobile,de
-25650,2026-10-25 07:47:45,Social Broad,c_social_broad_scale,variant_B,desktop,CA
+25650,2026-10-25 07:47:45,Social Broad,c_social_broad_scale,variant_B,mobile,CA
 25651,2026-10-25 15:58:18,Social Broad,c_social_broad_scale,Variant_b,desktop,DE
-25652,2026-10-25 17:49:27,Social Broad,c_social_broad_scale,variant_B,desktop,DE
+25652,2026-10-25 17:49:27,Social Broad,c_social_broad_scale,variant_B,mobile,DE
 25653,2026-10-25 16:09:30,social broad,c_social_broad_scale,variant_B,desktop,
 25654,2026-10-25 17:08:21,Social Broad,c_social_broad_scale,Variant_b,,DE
-25655,2026-10-25 03:21:45,social broad,c_social_broad_scale,variant_b,desktop,CA
+25655,2026-10-25 03:21:45,social broad,c_social_broad_scale,variant_b,mobile,CA
 25656,2026-10-25 11:26:40,Social Broad,c_social_broad_scale,variant_b,desktop,DE
 25657,2026-10-25 15:11:09,Social Broad,c_social_broad_scale,variant_B,desktop,US
 25658,2026-10-25 14:19:43,Social Broad,c_social_broad_scale,variant_b,,US
-25659,2026-10-25 00:49:39,Social Broad,c_social_broad_scale,variant_B,desktop,UK
-25660,2026-10-25 19:31:58,Social Broad,c_social_broad_scale,Variant_b,mobile,UK
+25659,2026-10-25 00:49:39,Social Broad,c_social_broad_scale,variant_B,tablet,UK
+25660,2026-10-25 19:31:58,Social Broad,c_social_broad_scale,Variant_b,desktop,UK
 25661,2026-10-25 19:44:32,social broad,c_social_broad_scale,Variant_b,desktop,FR
 25662,2026-10-25 19:31:17,social broad,c_social_broad_scale,variant_b,mobile,de
-25663,2026-10-25 09:24:29,Social Broad,c_social_broad_scale,variant_B,mobile,US
+25663,2026-10-25 09:24:29,Social Broad,c_social_broad_scale,variant_B,desktop,US
 25664,2026-10-25 15:03:00,Social Broad,c_social_broad_scale,variant_b,desktop,US
 25665,2026-10-25 08:42:02,Social Broad,c_social_broad_scale,Variant_b,mobile,de
-25666,2026-10-25 20:45:58,Social Broad,c_social_broad_scale,variant_B,mobile,ca
-25667,2026-10-25 23:32:31,social broad,c_social_broad_scale,variant_b,desktop,de
+25666,2026-10-25 20:45:58,Social Broad,c_social_broad_scale,variant_B,desktop,ca
+25667,2026-10-25 23:32:31,social broad,c_social_broad_scale,variant_b,mobile,de
 25668,2026-10-25 15:10:18,social broad,c_social_broad_scale,Variant_a,desktop,US
-25669,2026-10-25 20:42:39,Social Broad,c_social_broad_scale,variant_b,mobile,USA
+25669,2026-10-25 20:42:39,Social Broad,c_social_broad_scale,variant_b,desktop,USA
 25670,2026-10-25 21:52:37,social broad,c_social_broad_scale,variant_B,mobile,US
-25671,2026-10-25 13:36:06,social broad,c_social_broad_scale,variant_B,mobile,DE
+25671,2026-10-25 13:36:06,social broad,c_social_broad_scale,variant_B,desktop,DE
 25672,2026-10-25 15:35:49,social broad,c_social_broad_scale,Variant_a,mobile,us
 25673,2026-10-25 12:22:55,Social Broad,c_social_broad_scale,Variant_b,mobile,CA
-25674,2026-10-25 06:52:29,Social Broad,c_social_broad_scale,variant_B,mobile,US
-25675,2026-10-25 06:02:24,social broad,c_social_broad_scale,variant_a,mobile,uk
+25674,2026-10-25 06:52:29,Social Broad,c_social_broad_scale,variant_B,desktop,US
+25675,2026-10-25 06:02:24,social broad,c_social_broad_scale,variant_a,desktop,uk
 25676,2026-10-25 15:41:52,Social Broad,c_social_broad_scale,Variant_b,desktop,US
-25677,2026-10-25 22:17:19,Social Broad,c_social_broad_scale,variant_b,mobile,ca
+25677,2026-10-25 22:17:19,Social Broad,c_social_broad_scale,variant_b,desktop,ca
 25678,2026-10-25 03:28:38,social broad,c_social_broad_scale,variant_a,desktop,CA
-25679,2026-10-25 08:23:45,social broad,c_social_broad_scale,Variant_b,desktop,DE
-25680,2026-10-25 03:57:16,social broad,c_social_broad_scale,Variant_b,mobile,uk
+25679,2026-10-25 08:23:45,social broad,c_social_broad_scale,Variant_b,mobile,DE
+25680,2026-10-25 03:57:16,social broad,c_social_broad_scale,Variant_b,desktop,uk
 25681,2026-10-25 02:25:43,social broad,c_social_broad_scale,Variant_b,desktop,US
 25682,2026-10-25 10:05:25,Social Broad,c_social_broad_scale,variant_b,desktop,US
 25683,2026-10-25 08:42:33,social broad,c_social_broad_scale,variant_B,desktop,
 25684,2026-10-25 14:13:09,social broad,c_social_broad_scale,variant_b,mobile,FR
-25685,2026-10-25 16:32:11,Social Broad,c_social_broad_scale,variant_b,tablet,DE
-25686,2026-10-25 03:05:43,Social Broad,c_social_broad_scale,Variant_b,mobile,
+25685,2026-10-25 16:32:11,Social Broad,c_social_broad_scale,variant_b,desktop,DE
+25686,2026-10-25 03:05:43,Social Broad,c_social_broad_scale,Variant_b,desktop,
 25687,2026-10-25 01:19:01,social broad,c_social_broad_scale,variant_B,desktop,ca
-25688,2026-10-25 23:13:08,social broad,c_social_broad_scale,variant_b,desktop,CA
+25688,2026-10-25 23:13:08,social broad,c_social_broad_scale,variant_b,mobile,CA
 25689,2026-10-25 09:53:28,social broad,c_social_broad_scale,Variant_b,desktop,DE
-25690,2026-10-25 10:00:40,Social Broad,c_social_broad_scale,Variant_b,desktop,FR
+25690,2026-10-25 10:00:40,Social Broad,c_social_broad_scale,Variant_b,mobile,FR
 25691,2026-10-25 04:26:57,Social Broad,c_social_broad_scale,Variant_b,desktop,de
-25692,2026-10-25 16:33:55,social broad,c_social_broad_scale,variant_B,desktop,US
-25693,2026-10-25 12:51:58,social broad,c_social_broad_scale,Variant_b,desktop,USA
+25692,2026-10-25 16:33:55,social broad,c_social_broad_scale,variant_B,mobile,US
+25693,2026-10-25 12:51:58,social broad,c_social_broad_scale,Variant_b,mobile,USA
 25694,2026-10-25 04:43:54,Social Broad,c_social_broad_scale,variant_b,desktop,DE
 25695,2026-10-25 14:52:57,Social Broad,c_social_broad_scale,variant_b,mobile,CA
 25696,2026-10-25 01:39:17,social broad,c_social_broad_scale,Variant_b,mobile,US
-25697,2026-10-25 02:19:29,Social Broad,c_social_broad_scale,Variant_b,mobile,DE
-25698,2026-10-25 01:22:28,social broad,c_social_broad_scale,variant_b,mobile,FR
-25699,2026-10-25 13:25:57,social broad,c_social_broad_scale,Variant_b,desktop,US
+25697,2026-10-25 02:19:29,Social Broad,c_social_broad_scale,Variant_b,desktop,DE
+25698,2026-10-25 01:22:28,social broad,c_social_broad_scale,variant_b,desktop,FR
+25699,2026-10-25 13:25:57,social broad,c_social_broad_scale,Variant_b,mobile,US
 25700,2026-10-25 17:41:46,Social Broad,c_social_broad_scale,variant_B,,UK
-25701,2026-10-25 09:03:42,social broad,c_social_broad_scale,Variant_b,desktop,US
+25701,2026-10-25 09:03:42,social broad,c_social_broad_scale,Variant_b,mobile,US
 25702,2026-10-25 22:35:03,Social Broad,c_social_broad_scale,variant_b,mobile,FR
 25703,2026-10-25 10:15:23,social broad,c_social_broad_scale,Variant_b,mobile,FR
 25704,2026-10-25 01:06:16,social broad,c_social_broad_scale,variant_B,mobile,US
-25705,2026-10-25 09:06:28,social broad,c_social_broad_scale,Variant_b,tablet,de
-25706,2026-10-25 18:40:36,Social Broad,c_social_broad_scale,Variant_a,mobile,USA
+25705,2026-10-25 09:06:28,social broad,c_social_broad_scale,Variant_b,mobile,de
+25706,2026-10-25 18:40:36,Social Broad,c_social_broad_scale,Variant_a,desktop,USA
 25707,2026-10-25 04:01:21,Social Broad,c_social_broad_scale,variant_A,mobile,FR
 25708,2026-10-25 23:47:57,Social Broad,c_social_broad_scale,variant_b,desktop,US
-25709,2026-10-25 09:44:36,social broad,c_social_broad_scale,Variant_b,mobile,CA
-25710,2026-10-25 23:36:27,Social Broad,c_social_broad_scale,Variant_a,desktop,de
-25711,2026-10-25 07:26:30,Social Broad,c_social_broad_scale,Variant_b,mobile,CA
+25709,2026-10-25 09:44:36,social broad,c_social_broad_scale,Variant_b,desktop,CA
+25710,2026-10-25 23:36:27,Social Broad,c_social_broad_scale,Variant_a,mobile,de
+25711,2026-10-25 07:26:30,Social Broad,c_social_broad_scale,Variant_b,desktop,CA
 25712,2026-10-25 14:14:52,Social Broad,c_social_broad_scale,variant_b,desktop,de
 25713,2026-10-25 05:39:12,Social Broad,c_social_broad_scale,variant_B,desktop,US
 25714,2026-10-25 00:36:36,social broad,c_social_broad_scale,variant_B,mobile,UK
-25715,2026-10-25 09:48:20,social broad,c_social_broad_scale,Variant_b,desktop,
+25715,2026-10-25 09:48:20,social broad,c_social_broad_scale,Variant_b,tablet,
 25716,2026-10-25 07:16:03,social broad,c_social_broad_scale,variant_b,mobile,US
 25717,2026-10-25 12:28:48,Social Broad,c_social_broad_scale,Variant_b,desktop,UK
-25718,2026-10-25 03:43:08,social broad,c_social_broad_scale,Variant_a,mobile,DE
-25719,2026-10-25 12:10:54,Social Broad,c_social_broad_scale,Variant_a,mobile,DE
-25720,2026-10-25 17:26:44,social broad,c_social_broad_scale,variant_b,mobile,USA
+25718,2026-10-25 03:43:08,social broad,c_social_broad_scale,Variant_a,desktop,DE
+25719,2026-10-25 12:10:54,Social Broad,c_social_broad_scale,Variant_a,desktop,DE
+25720,2026-10-25 17:26:44,social broad,c_social_broad_scale,variant_b,desktop,USA
 25721,2026-10-25 04:20:30,Social Broad,c_social_broad_scale,variant_b,desktop,USA
 25722,2026-10-25 07:55:27,Social Broad,c_social_broad_scale,variant_b,desktop,CA
-25723,2026-10-26 12:33:26,search,c_google_search,variant_A,mobile,US
+25723,2026-10-26 12:33:26,search,c_google_search,variant_A,desktop,US
 25724,2026-10-26 15:46:16,search,c_google_search,variant_a,desktop,ca
-25725,2026-10-26 20:35:22,Search,c_google_search,variant_a,desktop,CA
-25726,2026-10-26 06:03:02,Search,c_google_search,variant_a,desktop,ca
-25727,2026-10-26 12:06:48,search,c_google_search,variant_A,desktop,DE
-25728,2026-10-26 22:02:12,Search,c_google_search,Variant_a,desktop,UK
+25725,2026-10-26 20:35:22,Search,c_google_search,variant_a,mobile,CA
+25726,2026-10-26 06:03:02,Search,c_google_search,variant_a,mobile,ca
+25727,2026-10-26 12:06:48,search,c_google_search,variant_A,mobile,DE
+25728,2026-10-26 22:02:12,Search,c_google_search,Variant_a,mobile,UK
 25729,2026-10-26 00:33:16,search,c_google_search,variant_a,desktop,US
-25730,2026-10-26 19:04:48,search,c_google_search,variant_A,tablet,us
+25730,2026-10-26 19:04:48,search,c_google_search,variant_A,mobile,us
 25731,2026-10-26 05:22:15,Search,c_google_search,variant_b,desktop,US
-25732,2026-10-26 09:07:31,Search,c_google_search,variant_B,desktop,de
+25732,2026-10-26 09:07:31,Search,c_google_search,variant_B,mobile,de
 25733,2026-10-26 21:51:44,Search,c_google_search,Variant_b,mobile,uk
 25734,2026-10-26 07:56:56,search,c_google_search,Variant_a,mobile,US
-25735,2026-10-26 05:28:47,search,c_google_search,variant_a,mobile,CA
-25736,2026-10-26 22:01:23,search,c_google_search,variant_A,desktop,us
+25735,2026-10-26 05:28:47,search,c_google_search,variant_a,tablet,CA
+25736,2026-10-26 22:01:23,search,c_google_search,variant_A,mobile,us
 25737,2026-10-26 01:05:15,search,c_google_search,variant_a,mobile,US
 25738,2026-10-26 02:47:43,search,c_google_search,variant_A,desktop,ca
-25739,2026-10-26 05:01:55,search,c_google_search,variant_A,desktop,UK
-25740,2026-10-26 14:43:50,search,c_google_search,variant_a,mobile,USA
-25741,2026-10-26 06:14:31,Search,c_google_search,Variant_b,desktop,uk
+25739,2026-10-26 05:01:55,search,c_google_search,variant_A,mobile,UK
+25740,2026-10-26 14:43:50,search,c_google_search,variant_a,desktop,USA
+25741,2026-10-26 06:14:31,Search,c_google_search,Variant_b,mobile,uk
 25742,2026-10-26 21:34:40,Search,c_google_search,variant_a,desktop,CA
 25743,2026-10-26 10:54:20,search,c_google_search,variant_a,desktop,US
-25744,2026-10-26 20:55:03,Search,c_google_search,variant_a,desktop,FR
-25745,2026-10-26 17:50:39,search,c_google_search,Variant_a,mobile,US
-25746,2026-10-26 00:20:42,search,c_google_search,variant_A,desktop,de
-25747,2026-10-26 03:52:22,Search,c_google_search,variant_a,mobile,us
-25748,2026-10-26 20:03:48,Search,c_google_search,variant_A,desktop,uk
+25744,2026-10-26 20:55:03,Search,c_google_search,variant_a,mobile,FR
+25745,2026-10-26 17:50:39,search,c_google_search,Variant_a,desktop,US
+25746,2026-10-26 00:20:42,search,c_google_search,variant_A,mobile,de
+25747,2026-10-26 03:52:22,Search,c_google_search,variant_a,desktop,us
+25748,2026-10-26 20:03:48,Search,c_google_search,variant_A,mobile,uk
 25749,2026-10-26 10:06:46,search,c_google_search,Variant_a,mobile,US
 25750,2026-10-26 13:33:08,Search,c_google_search,variant_A,mobile,de
 25751,2026-10-26 21:13:03,Search,c_google_search,variant_a,desktop,FR
-25752,2026-10-26 04:27:37,search,c_google_search,variant_A,mobile,US
-25753,2026-10-26 05:07:29,Search,c_google_search,variant_a,desktop,USA
-25754,2026-10-26 11:27:40,search,c_google_search,Variant_a,mobile,CA
+25752,2026-10-26 04:27:37,search,c_google_search,variant_A,desktop,US
+25753,2026-10-26 05:07:29,Search,c_google_search,variant_a,mobile,USA
+25754,2026-10-26 11:27:40,search,c_google_search,Variant_a,desktop,CA
 25755,2026-10-26 17:58:37,Search,c_google_search,variant_b,desktop,USA
-25756,2026-10-26 04:58:54,fb / social,c_fb_retargeting,Variant_a,desktop,CA
+25756,2026-10-26 04:58:54,fb / social,c_fb_retargeting,Variant_a,mobile,CA
 25757,2026-10-26 21:09:42,Social,c_fb_retargeting,variant_a,desktop,CA
 25758,2026-10-26 03:21:59,Social,c_fb_retargeting,Variant_b,desktop,ca
-25759,2026-10-26 05:58:48,fb / social,c_fb_retargeting,variant_A,mobile,US
+25759,2026-10-26 05:58:48,fb / social,c_fb_retargeting,variant_A,desktop,US
 25760,2026-10-26 22:13:39,fb / social,c_fb_retargeting,variant_a,desktop,uk
 25761,2026-10-26 16:56:47,Social,c_fb_retargeting,variant_a,mobile,FR
 25762,2026-10-26 01:07:48,fb / social,c_fb_retargeting,variant_a,desktop,FR
-25763,2026-10-26 23:23:18,Social,c_fb_retargeting,variant_b,desktop,uk
+25763,2026-10-26 23:23:18,Social,c_fb_retargeting,variant_b,tablet,uk
 25764,2026-10-26 20:14:58,fb / social,c_fb_retargeting,variant_a,desktop,FR
 25765,2026-10-26 22:05:59,fb / social,c_fb_retargeting,variant_A,desktop,de
 25766,2026-10-26 23:07:48,Social,c_fb_retargeting,variant_A,mobile,US
-25767,2026-10-26 03:10:24,Social,c_fb_retargeting,variant_A,mobile,USA
-25768,2026-10-26 23:58:51,fb / social,c_fb_retargeting,variant_A,desktop,de
+25767,2026-10-26 03:10:24,Social,c_fb_retargeting,variant_A,desktop,USA
+25768,2026-10-26 23:58:51,fb / social,c_fb_retargeting,variant_A,mobile,de
 25769,2026-10-26 02:48:00,fb / social,c_fb_retargeting,variant_a,mobile,DE
 25770,2026-10-26 08:57:37,fb / social,c_fb_retargeting,variant_a,desktop,uk
 25771,2026-10-26 03:32:09,fb / social,c_fb_retargeting,Variant_a,mobile,
 25772,2026-10-26 12:20:54,Social,c_fb_retargeting,variant_A,desktop,CA
-25773,2026-10-26 04:38:13,fb / social,c_fb_retargeting,Variant_a,mobile,US
+25773,2026-10-26 04:38:13,fb / social,c_fb_retargeting,Variant_a,desktop,US
 25774,2026-10-26 03:48:04,Social,c_fb_retargeting,Variant_a,desktop,us
 25775,2026-10-26 11:18:25,Social,c_fb_retargeting,variant_A,mobile,ca
 25776,2026-10-26 09:19:38,Social,c_fb_retargeting,variant_a,desktop,US
 25777,2026-10-26 19:39:24,fb / social,c_fb_retargeting,Variant_a,mobile,de
-25778,2026-10-26 05:45:56,Social,c_fb_retargeting,Variant_a,mobile,US
+25778,2026-10-26 05:45:56,Social,c_fb_retargeting,Variant_a,desktop,US
 25779,2026-10-26 20:45:53,Social,c_fb_retargeting,variant_A,desktop,US
-25780,2026-10-26 20:25:23,fb / social,c_fb_retargeting,variant_b,mobile,FR
-25781,2026-10-26 12:40:11,Affiliate,c_blogs_affiliate,variant_a,desktop,us
+25780,2026-10-26 20:25:23,fb / social,c_fb_retargeting,variant_b,desktop,FR
+25781,2026-10-26 12:40:11,Affiliate,c_blogs_affiliate,variant_a,mobile,us
 25782,2026-10-26 09:10:23,affiliate,c_blogs_affiliate,variant_A,mobile,UK
-25783,2026-10-26 20:48:30,Affiliate,c_blogs_affiliate,variant_A,mobile,ca
+25783,2026-10-26 20:48:30,Affiliate,c_blogs_affiliate,variant_A,desktop,ca
 25784,2026-10-26 19:07:39,Affiliate,c_blogs_affiliate,Variant_a,mobile,USA
-25785,2026-10-26 00:21:12,affiliate,c_blogs_affiliate,variant_B,mobile,US
+25785,2026-10-26 00:21:12,affiliate,c_blogs_affiliate,variant_B,desktop,US
 25786,2026-10-26 19:49:24,Affiliate,c_blogs_affiliate,variant_a,mobile,USA
 25787,2026-10-26 06:15:39,Affiliate,c_blogs_affiliate,Variant_a,mobile,uk
 25788,2026-10-26 23:03:57,Video,c_youtube_tech,variant_A,mobile,USA
-25789,2026-10-26 22:52:25,video,c_youtube_tech,Variant_a,tablet,uk
-25790,2026-10-26 18:41:14,video,c_youtube_tech,Variant_a,tablet,US
-25791,2026-10-26 15:11:36,Video,c_youtube_tech,variant_a,tablet,US
+25789,2026-10-26 22:52:25,video,c_youtube_tech,Variant_a,mobile,uk
+25790,2026-10-26 18:41:14,video,c_youtube_tech,Variant_a,desktop,US
+25791,2026-10-26 15:11:36,Video,c_youtube_tech,variant_a,mobile,US
 25792,2026-10-26 15:26:54,Video,c_youtube_tech,variant_B,mobile,uk
-25793,2026-10-26 11:41:13,Video,c_youtube_tech,variant_B,mobile,CA
-25794,2026-10-26 18:09:30,Video,c_youtube_tech,Variant_a,desktop,us
+25793,2026-10-26 11:41:13,Video,c_youtube_tech,variant_B,desktop,CA
+25794,2026-10-26 18:09:30,Video,c_youtube_tech,Variant_a,mobile,us
 25795,2026-10-26 19:03:48,Video,c_youtube_tech,variant_A,desktop,ca
-25796,2026-10-26 14:06:21,Video,c_youtube_tech,variant_A,mobile,US
-25797,2026-10-26 03:29:45,video,c_youtube_tech,variant_A,mobile,FR
+25796,2026-10-26 14:06:21,Video,c_youtube_tech,variant_A,desktop,US
+25797,2026-10-26 03:29:45,video,c_youtube_tech,variant_A,desktop,FR
 25798,2026-10-26 10:46:18,Video,c_youtube_tech,variant_A,desktop,US
-25799,2026-10-26 10:47:02,Video,c_youtube_tech,Variant_a,mobile,DE
-25800,2026-10-26 08:52:26,video,c_youtube_tech,variant_A,desktop,US
-25801,2026-10-26 17:45:28,Video,c_youtube_tech,variant_a,mobile,DE
-25802,2026-10-26 12:42:41,video,c_youtube_tech,variant_a,desktop,US
+25799,2026-10-26 10:47:02,Video,c_youtube_tech,Variant_a,desktop,DE
+25800,2026-10-26 08:52:26,video,c_youtube_tech,variant_A,mobile,US
+25801,2026-10-26 17:45:28,Video,c_youtube_tech,variant_a,desktop,DE
+25802,2026-10-26 12:42:41,video,c_youtube_tech,variant_a,mobile,US
 25803,2026-10-26 03:45:34,Video,c_youtube_tech,Variant_a,desktop,US
 25804,2026-10-26 15:04:31,video,c_youtube_tech,Variant_a,desktop,uk
 25805,2026-10-26 09:14:29,Video,c_youtube_tech,variant_A,desktop,USA
 25806,2026-10-26 20:39:30,Video,c_youtube_tech,variant_A,,us
 25807,2026-10-26 14:34:19,video,c_youtube_tech,variant_a,mobile,US
 25808,2026-10-26 08:06:04,Video,c_youtube_tech,variant_a,,ca
-25809,2026-10-26 18:19:07,video,c_youtube_tech,variant_A,mobile,CA
-25810,2026-10-26 19:26:56,video,c_youtube_tech,variant_a,mobile,us
+25809,2026-10-26 18:19:07,video,c_youtube_tech,variant_A,desktop,CA
+25810,2026-10-26 19:26:56,video,c_youtube_tech,variant_a,desktop,us
 25811,2026-10-26 10:31:41,video,c_youtube_tech,Variant_a,mobile,ca
-25812,2026-10-26 19:19:14,Video,c_youtube_tech,variant_a,mobile,US
+25812,2026-10-26 19:19:14,Video,c_youtube_tech,variant_a,desktop,US
 25813,2026-10-26 12:28:34,Social Broad,c_social_broad_scale,variant_b,desktop,USA
-25814,2026-10-26 09:06:17,Social Broad,c_social_broad_scale,variant_b,desktop,DE
+25814,2026-10-26 09:06:17,Social Broad,c_social_broad_scale,variant_b,mobile,DE
 25815,2026-10-26 21:37:49,social broad,c_social_broad_scale,variant_B,desktop,
-25816,2026-10-26 17:06:00,Social Broad,c_social_broad_scale,variant_b,desktop,UK
-25817,2026-10-26 15:33:48,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
-25818,2026-10-26 07:16:55,social broad,c_social_broad_scale,variant_b,mobile,us
+25816,2026-10-26 17:06:00,Social Broad,c_social_broad_scale,variant_b,tablet,UK
+25817,2026-10-26 15:33:48,Social Broad,c_social_broad_scale,Variant_b,mobile,uk
+25818,2026-10-26 07:16:55,social broad,c_social_broad_scale,variant_b,desktop,us
 25819,2026-10-26 23:48:04,Social Broad,c_social_broad_scale,Variant_b,desktop,
-25820,2026-10-26 05:47:59,social broad,c_social_broad_scale,variant_b,tablet,uk
-25821,2026-10-26 05:58:06,social broad,c_social_broad_scale,variant_b,mobile,US
-25822,2026-10-26 13:18:53,Social Broad,c_social_broad_scale,variant_B,desktop,CA
+25820,2026-10-26 05:47:59,social broad,c_social_broad_scale,variant_b,mobile,uk
+25821,2026-10-26 05:58:06,social broad,c_social_broad_scale,variant_b,desktop,US
+25822,2026-10-26 13:18:53,Social Broad,c_social_broad_scale,variant_B,mobile,CA
 25823,2026-10-26 06:47:21,social broad,c_social_broad_scale,Variant_b,,
 25824,2026-10-26 04:32:13,Social Broad,c_social_broad_scale,variant_B,desktop,US
-25825,2026-10-26 09:34:10,social broad,c_social_broad_scale,variant_B,tablet,CA
-25826,2026-10-26 13:36:00,social broad,c_social_broad_scale,variant_B,mobile,DE
+25825,2026-10-26 09:34:10,social broad,c_social_broad_scale,variant_B,mobile,CA
+25826,2026-10-26 13:36:00,social broad,c_social_broad_scale,variant_B,desktop,DE
 25827,2026-10-26 06:04:11,Social Broad,c_social_broad_scale,Variant_b,desktop,
 25828,2026-10-26 15:16:35,social broad,c_social_broad_scale,variant_a,mobile,USA
 25829,2026-10-26 15:01:11,Social Broad,c_social_broad_scale,variant_b,mobile,USA
-25830,2026-10-26 02:16:43,social broad,c_social_broad_scale,variant_B,desktop,uk
-25831,2026-10-26 23:18:44,social broad,c_social_broad_scale,variant_B,mobile,US
+25830,2026-10-26 02:16:43,social broad,c_social_broad_scale,variant_B,mobile,uk
+25831,2026-10-26 23:18:44,social broad,c_social_broad_scale,variant_B,desktop,US
 25832,2026-10-26 15:01:51,Social Broad,c_social_broad_scale,Variant_b,mobile,USA
 25833,2026-10-26 15:42:55,social broad,c_social_broad_scale,variant_B,desktop,UK
 25834,2026-10-26 15:36:52,social broad,c_social_broad_scale,variant_B,mobile,ca
-25835,2026-10-26 22:20:14,social broad,c_social_broad_scale,Variant_b,desktop,ca
-25836,2026-10-26 07:04:43,Social Broad,c_social_broad_scale,variant_B,desktop,US
-25837,2026-10-26 11:47:25,Social Broad,c_social_broad_scale,variant_b,desktop,USA
-25838,2026-10-26 06:41:08,Social Broad,c_social_broad_scale,Variant_b,tablet,us
-25839,2026-10-26 14:05:33,Social Broad,c_social_broad_scale,variant_a,mobile,DE
-25840,2026-10-26 14:38:02,social broad,c_social_broad_scale,variant_b,desktop,US
-25841,2026-10-26 12:26:14,social broad,c_social_broad_scale,variant_b,desktop,US
-25842,2026-10-26 03:12:36,social broad,c_social_broad_scale,variant_B,desktop,us
+25835,2026-10-26 22:20:14,social broad,c_social_broad_scale,Variant_b,mobile,ca
+25836,2026-10-26 07:04:43,Social Broad,c_social_broad_scale,variant_B,mobile,US
+25837,2026-10-26 11:47:25,Social Broad,c_social_broad_scale,variant_b,mobile,USA
+25838,2026-10-26 06:41:08,Social Broad,c_social_broad_scale,Variant_b,mobile,us
+25839,2026-10-26 14:05:33,Social Broad,c_social_broad_scale,variant_a,tablet,DE
+25840,2026-10-26 14:38:02,social broad,c_social_broad_scale,variant_b,tablet,US
+25841,2026-10-26 12:26:14,social broad,c_social_broad_scale,variant_b,mobile,US
+25842,2026-10-26 03:12:36,social broad,c_social_broad_scale,variant_B,tablet,us
 25843,2026-10-26 16:29:50,social broad,c_social_broad_scale,variant_b,mobile,de
-25844,2026-10-26 23:11:18,social broad,c_social_broad_scale,Variant_b,desktop,de
-25845,2026-10-26 00:48:57,Social Broad,c_social_broad_scale,variant_b,mobile,uk
-25846,2026-10-26 15:08:44,Social Broad,c_social_broad_scale,variant_B,mobile,US
+25844,2026-10-26 23:11:18,social broad,c_social_broad_scale,Variant_b,mobile,de
+25845,2026-10-26 00:48:57,Social Broad,c_social_broad_scale,variant_b,desktop,uk
+25846,2026-10-26 15:08:44,Social Broad,c_social_broad_scale,variant_B,desktop,US
 25847,2026-10-26 09:12:07,Social Broad,c_social_broad_scale,variant_b,mobile,uk
 25848,2026-10-26 04:24:33,social broad,c_social_broad_scale,variant_B,desktop,USA
-25849,2026-10-26 10:43:34,social broad,c_social_broad_scale,Variant_b,desktop,ca
+25849,2026-10-26 10:43:34,social broad,c_social_broad_scale,Variant_b,mobile,ca
 25850,2026-10-26 16:22:56,Social Broad,c_social_broad_scale,variant_B,,US
-25851,2026-10-26 07:38:53,social broad,c_social_broad_scale,Variant_b,mobile,US
+25851,2026-10-26 07:38:53,social broad,c_social_broad_scale,Variant_b,desktop,US
 25852,2026-10-26 16:05:16,Social Broad,c_social_broad_scale,variant_b,mobile,US
 25853,2026-10-26 06:01:42,social broad,c_social_broad_scale,Variant_b,mobile,uk
 25854,2026-10-26 02:46:07,Social Broad,c_social_broad_scale,variant_B,desktop,USA
 25855,2026-10-26 11:06:20,Social Broad,c_social_broad_scale,Variant_b,mobile,USA
-25856,2026-10-26 02:30:38,Social Broad,c_social_broad_scale,Variant_b,desktop,DE
+25856,2026-10-26 02:30:38,Social Broad,c_social_broad_scale,Variant_b,mobile,DE
 25857,2026-10-26 19:22:11,social broad,c_social_broad_scale,variant_B,desktop,FR
-25858,2026-10-26 17:26:03,social broad,c_social_broad_scale,variant_B,mobile,de
+25858,2026-10-26 17:26:03,social broad,c_social_broad_scale,variant_B,desktop,de
 25859,2026-10-26 19:42:07,Social Broad,c_social_broad_scale,Variant_b,desktop,us
-25860,2026-10-26 17:24:23,Social Broad,c_social_broad_scale,variant_B,mobile,UK
-25861,2026-10-26 23:20:01,social broad,c_social_broad_scale,variant_B,mobile,US
-25862,2026-10-26 04:49:37,social broad,c_social_broad_scale,variant_B,mobile,US
+25860,2026-10-26 17:24:23,Social Broad,c_social_broad_scale,variant_B,desktop,UK
+25861,2026-10-26 23:20:01,social broad,c_social_broad_scale,variant_B,desktop,US
+25862,2026-10-26 04:49:37,social broad,c_social_broad_scale,variant_B,desktop,US
 25863,2026-10-26 02:14:05,Social Broad,c_social_broad_scale,variant_b,desktop,DE
-25864,2026-10-26 13:44:23,social broad,c_social_broad_scale,Variant_b,desktop,FR
-25865,2026-10-26 15:44:39,social broad,c_social_broad_scale,Variant_b,desktop,de
-25866,2026-10-26 04:59:22,social broad,c_social_broad_scale,variant_B,desktop,US
-25867,2026-10-26 02:53:58,social broad,c_social_broad_scale,Variant_b,tablet,US
+25864,2026-10-26 13:44:23,social broad,c_social_broad_scale,Variant_b,mobile,FR
+25865,2026-10-26 15:44:39,social broad,c_social_broad_scale,Variant_b,mobile,de
+25866,2026-10-26 04:59:22,social broad,c_social_broad_scale,variant_B,mobile,US
+25867,2026-10-26 02:53:58,social broad,c_social_broad_scale,Variant_b,desktop,US
 25868,2026-10-26 06:59:35,social broad,c_social_broad_scale,variant_A,mobile,USA
-25869,2026-10-26 11:59:59,Social Broad,c_social_broad_scale,variant_b,desktop,US
-25870,2026-10-26 16:38:14,Social Broad,c_social_broad_scale,variant_B,mobile,US
+25869,2026-10-26 11:59:59,Social Broad,c_social_broad_scale,variant_b,mobile,US
+25870,2026-10-26 16:38:14,Social Broad,c_social_broad_scale,variant_B,desktop,US
 25871,2026-10-26 16:26:34,Social Broad,c_social_broad_scale,variant_B,mobile,US
-25872,2026-10-26 22:02:34,social broad,c_social_broad_scale,Variant_b,desktop,us
-25873,2026-10-26 09:10:47,Social Broad,c_social_broad_scale,variant_B,desktop,ca
-25874,2026-10-26 06:59:34,Social Broad,c_social_broad_scale,variant_b,desktop,
-25875,2026-10-26 18:51:52,social broad,c_social_broad_scale,Variant_b,tablet,us
+25872,2026-10-26 22:02:34,social broad,c_social_broad_scale,Variant_b,mobile,us
+25873,2026-10-26 09:10:47,Social Broad,c_social_broad_scale,variant_B,mobile,ca
+25874,2026-10-26 06:59:34,Social Broad,c_social_broad_scale,variant_b,mobile,
+25875,2026-10-26 18:51:52,social broad,c_social_broad_scale,Variant_b,desktop,us
 25876,2026-10-26 21:00:16,social broad,c_social_broad_scale,variant_b,desktop,UK
-25877,2026-10-26 21:13:38,Social Broad,c_social_broad_scale,Variant_b,mobile,DE
+25877,2026-10-26 21:13:38,Social Broad,c_social_broad_scale,Variant_b,desktop,DE
 25878,2026-10-26 16:59:34,Social Broad,c_social_broad_scale,Variant_b,desktop,ca
-25879,2026-10-26 16:44:49,social broad,c_social_broad_scale,variant_b,mobile,de
-25880,2026-10-26 05:53:49,Social Broad,c_social_broad_scale,variant_b,desktop,FR
-25881,2026-10-26 00:06:36,Social Broad,c_social_broad_scale,variant_b,tablet,DE
-25882,2026-10-26 11:42:28,social broad,c_social_broad_scale,Variant_b,mobile,
-25883,2026-10-26 19:53:01,social broad,c_social_broad_scale,Variant_b,desktop,US
-25884,2026-10-26 07:15:03,social broad,c_social_broad_scale,Variant_b,mobile,de
-25885,2026-10-26 20:39:30,social broad,c_social_broad_scale,Variant_b,mobile,ca
-25886,2026-10-26 14:18:10,social broad,c_social_broad_scale,variant_b,mobile,FR
-25887,2026-10-26 21:12:00,social broad,c_social_broad_scale,variant_B,desktop,US
-25888,2026-10-26 23:04:04,Social Broad,c_social_broad_scale,Variant_b,desktop,FR
-25889,2026-10-26 01:01:20,Social Broad,c_social_broad_scale,Variant_b,mobile,de
+25879,2026-10-26 16:44:49,social broad,c_social_broad_scale,variant_b,desktop,de
+25880,2026-10-26 05:53:49,Social Broad,c_social_broad_scale,variant_b,mobile,FR
+25881,2026-10-26 00:06:36,Social Broad,c_social_broad_scale,variant_b,desktop,DE
+25882,2026-10-26 11:42:28,social broad,c_social_broad_scale,Variant_b,tablet,
+25883,2026-10-26 19:53:01,social broad,c_social_broad_scale,Variant_b,mobile,US
+25884,2026-10-26 07:15:03,social broad,c_social_broad_scale,Variant_b,desktop,de
+25885,2026-10-26 20:39:30,social broad,c_social_broad_scale,Variant_b,desktop,ca
+25886,2026-10-26 14:18:10,social broad,c_social_broad_scale,variant_b,desktop,FR
+25887,2026-10-26 21:12:00,social broad,c_social_broad_scale,variant_B,tablet,US
+25888,2026-10-26 23:04:04,Social Broad,c_social_broad_scale,Variant_b,mobile,FR
+25889,2026-10-26 01:01:20,Social Broad,c_social_broad_scale,Variant_b,desktop,de
 25890,2026-10-26 03:04:45,Social Broad,c_social_broad_scale,variant_B,mobile,US
-25891,2026-10-26 00:47:43,social broad,c_social_broad_scale,Variant_b,desktop,UK
-25892,2026-10-26 20:33:52,social broad,c_social_broad_scale,variant_b,mobile,us
-25893,2026-10-26 11:04:49,Social Broad,c_social_broad_scale,Variant_b,desktop,US
+25891,2026-10-26 00:47:43,social broad,c_social_broad_scale,Variant_b,mobile,UK
+25892,2026-10-26 20:33:52,social broad,c_social_broad_scale,variant_b,desktop,us
+25893,2026-10-26 11:04:49,Social Broad,c_social_broad_scale,Variant_b,mobile,US
 25894,2026-10-26 11:40:17,social broad,c_social_broad_scale,variant_b,mobile,US
 25895,2026-10-26 15:39:12,social broad,c_social_broad_scale,Variant_b,desktop,USA
-25896,2026-10-26 07:17:25,Social Broad,c_social_broad_scale,variant_B,desktop,CA
+25896,2026-10-26 07:17:25,Social Broad,c_social_broad_scale,variant_B,mobile,CA
 25897,2026-10-26 05:25:24,social broad,c_social_broad_scale,variant_B,desktop,DE
 25898,2026-10-26 12:45:55,social broad,c_social_broad_scale,variant_B,desktop,us
 25899,2026-10-26 07:44:57,social broad,c_social_broad_scale,Variant_b,desktop,uk
-25900,2026-10-27 08:43:16,Search,c_google_search,Variant_a,desktop,DE
-25901,2026-10-27 16:54:21,Search,c_google_search,variant_A,desktop,CA
-25902,2026-10-27 13:01:14,Search,c_google_search,Variant_a,mobile,USA
+25900,2026-10-27 08:43:16,Search,c_google_search,Variant_a,tablet,DE
+25901,2026-10-27 16:54:21,Search,c_google_search,variant_A,mobile,CA
+25902,2026-10-27 13:01:14,Search,c_google_search,Variant_a,desktop,USA
 25903,2026-10-27 17:16:20,Search,c_google_search,variant_A,desktop,
 25904,2026-10-27 00:03:46,Search,c_google_search,variant_a,desktop,
 25905,2026-10-27 07:48:17,search,c_google_search,variant_a,mobile,us
-25906,2026-10-27 15:01:25,search,c_google_search,variant_a,mobile,DE
+25906,2026-10-27 15:01:25,search,c_google_search,variant_a,desktop,DE
 25907,2026-10-27 22:52:56,Search,c_google_search,Variant_a,mobile,UK
-25908,2026-10-27 10:06:12,Search,c_google_search,variant_b,desktop,UK
+25908,2026-10-27 10:06:12,Search,c_google_search,variant_b,mobile,UK
 25909,2026-10-27 15:43:00,Search,c_google_search,variant_A,mobile,DE
-25910,2026-10-27 17:46:15,search,c_google_search,variant_b,tablet,uk
+25910,2026-10-27 17:46:15,search,c_google_search,variant_b,desktop,uk
 25911,2026-10-27 10:02:07,Search,c_google_search,variant_a,desktop,DE
-25912,2026-10-27 16:19:50,Search,c_google_search,Variant_b,tablet,DE
-25913,2026-10-27 06:36:46,search,c_google_search,variant_A,desktop,us
-25914,2026-10-27 11:13:15,search,c_google_search,Variant_a,desktop,us
-25915,2026-10-27 02:12:57,search,c_google_search,variant_a,desktop,DE
+25912,2026-10-27 16:19:50,Search,c_google_search,Variant_b,desktop,DE
+25913,2026-10-27 06:36:46,search,c_google_search,variant_A,mobile,us
+25914,2026-10-27 11:13:15,search,c_google_search,Variant_a,mobile,us
+25915,2026-10-27 02:12:57,search,c_google_search,variant_a,mobile,DE
 25916,2026-10-27 22:59:47,Search,c_google_search,variant_A,desktop,us
-25917,2026-10-27 08:26:50,search,c_google_search,Variant_a,desktop,US
+25917,2026-10-27 08:26:50,search,c_google_search,Variant_a,mobile,US
 25918,2026-10-27 04:55:20,Search,c_google_search,Variant_a,desktop,de
 25919,2026-10-27 06:22:12,search,c_google_search,Variant_a,desktop,CA
 25920,2026-10-27 15:49:38,search,c_google_search,variant_A,,uk
 25921,2026-10-27 10:01:25,search,c_google_search,variant_a,desktop,FR
-25922,2026-10-27 23:09:26,search,c_google_search,variant_A,desktop,CA
-25923,2026-10-27 08:50:04,search,c_google_search,variant_b,desktop,UK
+25922,2026-10-27 23:09:26,search,c_google_search,variant_A,mobile,CA
+25923,2026-10-27 08:50:04,search,c_google_search,variant_b,mobile,UK
 25924,2026-10-27 15:45:37,Search,c_google_search,variant_A,mobile,ca
-25925,2026-10-27 19:42:55,search,c_google_search,Variant_a,mobile,us
+25925,2026-10-27 19:42:55,search,c_google_search,Variant_a,desktop,us
 25926,2026-10-27 21:20:05,Search,c_google_search,Variant_a,desktop,DE
 25927,2026-10-27 15:52:33,search,c_google_search,variant_a,desktop,US
-25928,2026-10-27 11:57:00,Search,c_google_search,variant_a,mobile,USA
+25928,2026-10-27 11:57:00,Search,c_google_search,variant_a,desktop,USA
 25929,2026-10-27 09:32:19,Social,c_fb_retargeting,Variant_a,,US
-25930,2026-10-27 06:59:08,Social,c_fb_retargeting,Variant_a,desktop,UK
-25931,2026-10-27 04:36:00,fb / social,c_fb_retargeting,variant_B,tablet,us
-25932,2026-10-27 22:36:02,Social,c_fb_retargeting,variant_A,desktop,US
-25933,2026-10-27 07:31:55,fb / social,c_fb_retargeting,variant_b,desktop,us
+25930,2026-10-27 06:59:08,Social,c_fb_retargeting,Variant_a,mobile,UK
+25931,2026-10-27 04:36:00,fb / social,c_fb_retargeting,variant_B,desktop,us
+25932,2026-10-27 22:36:02,Social,c_fb_retargeting,variant_A,mobile,US
+25933,2026-10-27 07:31:55,fb / social,c_fb_retargeting,variant_b,mobile,us
 25934,2026-10-27 20:56:43,fb / social,c_fb_retargeting,variant_a,desktop,FR
-25935,2026-10-27 07:54:01,Social,c_fb_retargeting,Variant_a,tablet,USA
-25936,2026-10-27 01:24:37,fb / social,c_fb_retargeting,variant_a,tablet,de
-25937,2026-10-27 15:30:02,Social,c_fb_retargeting,variant_A,mobile,US
+25935,2026-10-27 07:54:01,Social,c_fb_retargeting,Variant_a,desktop,USA
+25936,2026-10-27 01:24:37,fb / social,c_fb_retargeting,variant_a,desktop,de
+25937,2026-10-27 15:30:02,Social,c_fb_retargeting,variant_A,tablet,US
 25938,2026-10-27 07:20:10,fb / social,c_fb_retargeting,Variant_a,desktop,US
-25939,2026-10-27 14:54:35,Social,c_fb_retargeting,variant_A,desktop,FR
-25940,2026-10-27 10:16:20,Social,c_fb_retargeting,Variant_a,mobile,US
-25941,2026-10-27 16:41:35,Social,c_fb_retargeting,Variant_a,desktop,US
+25939,2026-10-27 14:54:35,Social,c_fb_retargeting,variant_A,mobile,FR
+25940,2026-10-27 10:16:20,Social,c_fb_retargeting,Variant_a,desktop,US
+25941,2026-10-27 16:41:35,Social,c_fb_retargeting,Variant_a,mobile,US
 25942,2026-10-27 22:00:07,fb / social,c_fb_retargeting,variant_a,desktop,ca
-25943,2026-10-27 16:16:37,Social,c_fb_retargeting,variant_a,desktop,UK
-25944,2026-10-27 15:31:36,fb / social,c_fb_retargeting,Variant_a,tablet,
+25943,2026-10-27 16:16:37,Social,c_fb_retargeting,variant_a,tablet,UK
+25944,2026-10-27 15:31:36,fb / social,c_fb_retargeting,Variant_a,mobile,
 25945,2026-10-27 18:46:05,Social,c_fb_retargeting,variant_A,desktop,UK
-25946,2026-10-27 17:06:55,Social,c_fb_retargeting,Variant_a,desktop,ca
-25947,2026-10-27 05:28:22,fb / social,c_fb_retargeting,variant_A,desktop,UK
-25948,2026-10-27 19:03:04,fb / social,c_fb_retargeting,variant_A,tablet,us
-25949,2026-10-27 02:01:35,Social,c_fb_retargeting,variant_a,mobile,uk
-25950,2026-10-27 15:12:33,Social,c_fb_retargeting,variant_A,mobile,de
+25946,2026-10-27 17:06:55,Social,c_fb_retargeting,Variant_a,mobile,ca
+25947,2026-10-27 05:28:22,fb / social,c_fb_retargeting,variant_A,mobile,UK
+25948,2026-10-27 19:03:04,fb / social,c_fb_retargeting,variant_A,mobile,us
+25949,2026-10-27 02:01:35,Social,c_fb_retargeting,variant_a,desktop,uk
+25950,2026-10-27 15:12:33,Social,c_fb_retargeting,variant_A,desktop,de
 25951,2026-10-27 20:25:51,fb / social,c_fb_retargeting,variant_b,mobile,USA
 25952,2026-10-27 22:32:52,fb / social,c_fb_retargeting,variant_a,mobile,us
 25953,2026-10-27 05:45:27,Social,c_fb_retargeting,Variant_b,desktop,FR
@@ -15957,26 +15957,26 @@ user_id,created_at,acquisition_channel,campaign_id,landing_variant,device,countr
 25956,2026-10-27 10:24:56,fb / social,c_fb_retargeting,variant_a,,US
 25957,2026-10-27 11:29:46,affiliate,c_blogs_affiliate,Variant_b,desktop,uk
 25958,2026-10-27 16:29:53,Affiliate,c_blogs_affiliate,Variant_a,desktop,FR
-25959,2026-10-27 14:15:40,affiliate,c_blogs_affiliate,variant_a,mobile,US
-25960,2026-10-27 19:08:42,affiliate,c_blogs_affiliate,Variant_a,mobile,us
+25959,2026-10-27 14:15:40,affiliate,c_blogs_affiliate,variant_a,desktop,US
+25960,2026-10-27 19:08:42,affiliate,c_blogs_affiliate,Variant_a,desktop,us
 25961,2026-10-27 11:19:11,Affiliate,c_blogs_affiliate,variant_a,desktop,US
-25962,2026-10-27 09:06:15,affiliate,c_blogs_affiliate,variant_a,mobile,USA
+25962,2026-10-27 09:06:15,affiliate,c_blogs_affiliate,variant_a,desktop,USA
 25963,2026-10-27 00:06:40,affiliate,c_blogs_affiliate,Variant_a,desktop,US
-25964,2026-10-27 10:27:44,Video,c_youtube_tech,Variant_a,mobile,CA
-25965,2026-10-27 14:51:30,Video,c_youtube_tech,variant_a,desktop,CA
-25966,2026-10-27 12:35:03,video,c_youtube_tech,Variant_a,mobile,US
+25964,2026-10-27 10:27:44,Video,c_youtube_tech,Variant_a,desktop,CA
+25965,2026-10-27 14:51:30,Video,c_youtube_tech,variant_a,mobile,CA
+25966,2026-10-27 12:35:03,video,c_youtube_tech,Variant_a,desktop,US
 25967,2026-10-27 13:35:28,video,c_youtube_tech,variant_a,desktop,de
-25968,2026-10-27 03:29:06,Video,c_youtube_tech,Variant_a,desktop,
-25969,2026-10-27 17:36:54,video,c_youtube_tech,Variant_a,desktop,ca
-25970,2026-10-27 09:12:27,video,c_youtube_tech,Variant_a,desktop,DE
+25968,2026-10-27 03:29:06,Video,c_youtube_tech,Variant_a,mobile,
+25969,2026-10-27 17:36:54,video,c_youtube_tech,Variant_a,mobile,ca
+25970,2026-10-27 09:12:27,video,c_youtube_tech,Variant_a,mobile,DE
 25971,2026-10-27 14:05:45,video,c_youtube_tech,variant_A,desktop,USA
-25972,2026-10-27 15:13:25,video,c_youtube_tech,variant_a,desktop,DE
-25973,2026-10-27 00:11:10,video,c_youtube_tech,variant_a,desktop,us
+25972,2026-10-27 15:13:25,video,c_youtube_tech,variant_a,mobile,DE
+25973,2026-10-27 00:11:10,video,c_youtube_tech,variant_a,tablet,us
 25974,2026-10-27 14:07:39,video,c_youtube_tech,variant_B,desktop,US
-25975,2026-10-27 06:57:43,Video,c_youtube_tech,variant_a,desktop,DE
-25976,2026-10-27 23:26:06,Video,c_youtube_tech,variant_B,mobile,uk
+25975,2026-10-27 06:57:43,Video,c_youtube_tech,variant_a,tablet,DE
+25976,2026-10-27 23:26:06,Video,c_youtube_tech,variant_B,desktop,uk
 25977,2026-10-27 06:12:27,video,c_youtube_tech,Variant_a,desktop,de
-25978,2026-10-27 07:41:16,video,c_youtube_tech,variant_A,tablet,DE
+25978,2026-10-27 07:41:16,video,c_youtube_tech,variant_A,desktop,DE
 25979,2026-10-27 20:39:28,Video,c_youtube_tech,Variant_a,mobile,us
 25980,2026-10-27 05:20:25,video,c_youtube_tech,variant_a,desktop,UK
 25981,2026-10-27 05:09:50,video,c_youtube_tech,Variant_a,desktop,de
@@ -15984,283 +15984,283 @@ user_id,created_at,acquisition_channel,campaign_id,landing_variant,device,countr
 25983,2026-10-27 04:53:25,Video,c_youtube_tech,variant_B,desktop,us
 25984,2026-10-27 02:55:34,Social Broad,c_social_broad_scale,variant_b,desktop,US
 25985,2026-10-27 15:32:37,social broad,c_social_broad_scale,variant_B,mobile,US
-25986,2026-10-27 00:41:22,social broad,c_social_broad_scale,variant_b,mobile,FR
-25987,2026-10-27 12:26:36,Social Broad,c_social_broad_scale,variant_B,desktop,FR
+25986,2026-10-27 00:41:22,social broad,c_social_broad_scale,variant_b,desktop,FR
+25987,2026-10-27 12:26:36,Social Broad,c_social_broad_scale,variant_B,tablet,FR
 25988,2026-10-27 23:10:21,Social Broad,c_social_broad_scale,variant_B,desktop,uk
 25989,2026-10-27 04:24:15,Social Broad,c_social_broad_scale,variant_B,desktop,ca
 25990,2026-10-27 22:37:20,social broad,c_social_broad_scale,variant_b,desktop,DE
-25991,2026-10-27 11:24:24,Social Broad,c_social_broad_scale,variant_B,tablet,uk
-25992,2026-10-27 23:10:21,Social Broad,c_social_broad_scale,variant_B,mobile,US
-25993,2026-10-27 16:34:34,social broad,c_social_broad_scale,variant_b,tablet,US
+25991,2026-10-27 11:24:24,Social Broad,c_social_broad_scale,variant_B,desktop,uk
+25992,2026-10-27 23:10:21,Social Broad,c_social_broad_scale,variant_B,desktop,US
+25993,2026-10-27 16:34:34,social broad,c_social_broad_scale,variant_b,mobile,US
 25994,2026-10-27 23:26:02,Social Broad,c_social_broad_scale,variant_B,mobile,ca
 25995,2026-10-27 16:37:10,Social Broad,c_social_broad_scale,Variant_b,desktop,FR
 25996,2026-10-27 13:57:45,social broad,c_social_broad_scale,variant_b,desktop,US
 25997,2026-10-27 03:26:32,Social Broad,c_social_broad_scale,Variant_b,desktop,
-25998,2026-10-27 12:06:43,social broad,c_social_broad_scale,Variant_b,desktop,us
+25998,2026-10-27 12:06:43,social broad,c_social_broad_scale,Variant_b,mobile,us
 25999,2026-10-27 19:50:58,social broad,c_social_broad_scale,variant_B,mobile,CA
 26000,2026-10-27 18:58:16,social broad,c_social_broad_scale,variant_B,desktop,uk
 26001,2026-10-27 04:57:06,social broad,c_social_broad_scale,Variant_b,desktop,uk
-26002,2026-10-27 20:11:39,social broad,c_social_broad_scale,variant_b,mobile,US
-26003,2026-10-27 02:23:18,social broad,c_social_broad_scale,variant_b,mobile,DE
+26002,2026-10-27 20:11:39,social broad,c_social_broad_scale,variant_b,tablet,US
+26003,2026-10-27 02:23:18,social broad,c_social_broad_scale,variant_b,desktop,DE
 26004,2026-10-27 11:32:25,Social Broad,c_social_broad_scale,variant_A,desktop,FR
 26005,2026-10-27 22:36:17,Social Broad,c_social_broad_scale,Variant_b,,UK
-26006,2026-10-27 11:47:36,Social Broad,c_social_broad_scale,variant_B,desktop,CA
-26007,2026-10-27 10:21:43,social broad,c_social_broad_scale,variant_B,desktop,USA
-26008,2026-10-27 07:39:48,Social Broad,c_social_broad_scale,variant_B,desktop,ca
-26009,2026-10-27 10:49:09,Social Broad,c_social_broad_scale,Variant_b,desktop,USA
-26010,2026-10-27 06:45:22,Social Broad,c_social_broad_scale,variant_B,mobile,ca
+26006,2026-10-27 11:47:36,Social Broad,c_social_broad_scale,variant_B,mobile,CA
+26007,2026-10-27 10:21:43,social broad,c_social_broad_scale,variant_B,tablet,USA
+26008,2026-10-27 07:39:48,Social Broad,c_social_broad_scale,variant_B,tablet,ca
+26009,2026-10-27 10:49:09,Social Broad,c_social_broad_scale,Variant_b,mobile,USA
+26010,2026-10-27 06:45:22,Social Broad,c_social_broad_scale,variant_B,desktop,ca
 26011,2026-10-27 11:26:42,Social Broad,c_social_broad_scale,Variant_a,desktop,de
-26012,2026-10-27 12:24:09,social broad,c_social_broad_scale,Variant_b,mobile,FR
-26013,2026-10-27 12:02:02,social broad,c_social_broad_scale,variant_b,mobile,us
-26014,2026-10-27 12:30:28,social broad,c_social_broad_scale,Variant_b,desktop,
-26015,2026-10-27 12:52:53,Social Broad,c_social_broad_scale,variant_b,mobile,US
+26012,2026-10-27 12:24:09,social broad,c_social_broad_scale,Variant_b,desktop,FR
+26013,2026-10-27 12:02:02,social broad,c_social_broad_scale,variant_b,tablet,us
+26014,2026-10-27 12:30:28,social broad,c_social_broad_scale,Variant_b,mobile,
+26015,2026-10-27 12:52:53,Social Broad,c_social_broad_scale,variant_b,desktop,US
 26016,2026-10-27 06:55:18,social broad,c_social_broad_scale,variant_b,desktop,DE
 26017,2026-10-27 22:48:18,social broad,c_social_broad_scale,variant_B,desktop,US
-26018,2026-10-27 05:04:29,Social Broad,c_social_broad_scale,Variant_b,mobile,USA
-26019,2026-10-27 16:44:18,Social Broad,c_social_broad_scale,variant_B,mobile,USA
+26018,2026-10-27 05:04:29,Social Broad,c_social_broad_scale,Variant_b,tablet,USA
+26019,2026-10-27 16:44:18,Social Broad,c_social_broad_scale,variant_B,desktop,USA
 26020,2026-10-27 20:40:09,Social Broad,c_social_broad_scale,Variant_b,desktop,FR
-26021,2026-10-27 09:58:55,social broad,c_social_broad_scale,variant_B,mobile,USA
+26021,2026-10-27 09:58:55,social broad,c_social_broad_scale,variant_B,desktop,USA
 26022,2026-10-27 16:56:47,social broad,c_social_broad_scale,variant_b,desktop,uk
-26023,2026-10-27 08:27:14,Social Broad,c_social_broad_scale,variant_b,tablet,UK
-26024,2026-10-27 23:56:54,social broad,c_social_broad_scale,variant_B,desktop,US
-26025,2026-10-27 18:17:51,Social Broad,c_social_broad_scale,variant_B,desktop,CA
-26026,2026-10-27 11:12:13,Social Broad,c_social_broad_scale,variant_B,desktop,UK
-26027,2026-10-27 08:12:11,social broad,c_social_broad_scale,variant_b,desktop,CA
+26023,2026-10-27 08:27:14,Social Broad,c_social_broad_scale,variant_b,mobile,UK
+26024,2026-10-27 23:56:54,social broad,c_social_broad_scale,variant_B,tablet,US
+26025,2026-10-27 18:17:51,Social Broad,c_social_broad_scale,variant_B,mobile,CA
+26026,2026-10-27 11:12:13,Social Broad,c_social_broad_scale,variant_B,mobile,UK
+26027,2026-10-27 08:12:11,social broad,c_social_broad_scale,variant_b,mobile,CA
 26028,2026-10-27 20:36:22,Social Broad,c_social_broad_scale,variant_A,mobile,USA
-26029,2026-10-27 11:49:35,social broad,c_social_broad_scale,Variant_b,mobile,US
-26030,2026-10-27 06:40:03,Social Broad,c_social_broad_scale,variant_B,desktop,CA
+26029,2026-10-27 11:49:35,social broad,c_social_broad_scale,Variant_b,desktop,US
+26030,2026-10-27 06:40:03,Social Broad,c_social_broad_scale,variant_B,mobile,CA
 26031,2026-10-27 06:25:11,social broad,c_social_broad_scale,variant_b,desktop,de
-26032,2026-10-27 01:13:51,social broad,c_social_broad_scale,variant_B,desktop,FR
+26032,2026-10-27 01:13:51,social broad,c_social_broad_scale,variant_B,mobile,FR
 26033,2026-10-27 06:20:08,Social Broad,c_social_broad_scale,Variant_b,desktop,US
-26034,2026-10-27 01:48:15,social broad,c_social_broad_scale,variant_B,mobile,uk
+26034,2026-10-27 01:48:15,social broad,c_social_broad_scale,variant_B,desktop,uk
 26035,2026-10-27 22:39:16,Social Broad,c_social_broad_scale,Variant_b,mobile,us
-26036,2026-10-27 01:57:57,social broad,c_social_broad_scale,Variant_b,tablet,US
+26036,2026-10-27 01:57:57,social broad,c_social_broad_scale,Variant_b,mobile,US
 26037,2026-10-27 22:54:25,social broad,c_social_broad_scale,variant_B,desktop,US
 26038,2026-10-27 02:47:33,Social Broad,c_social_broad_scale,variant_b,desktop,CA
 26039,2026-10-27 05:45:42,social broad,c_social_broad_scale,variant_b,mobile,us
 26040,2026-10-27 22:47:31,social broad,c_social_broad_scale,variant_B,mobile,us
-26041,2026-10-27 11:31:02,social broad,c_social_broad_scale,variant_b,mobile,us
-26042,2026-10-27 22:52:01,social broad,c_social_broad_scale,variant_b,desktop,UK
+26041,2026-10-27 11:31:02,social broad,c_social_broad_scale,variant_b,desktop,us
+26042,2026-10-27 22:52:01,social broad,c_social_broad_scale,variant_b,mobile,UK
 26043,2026-10-27 05:48:39,Social Broad,c_social_broad_scale,Variant_b,desktop,us
-26044,2026-10-27 10:14:13,social broad,c_social_broad_scale,variant_B,mobile,US
+26044,2026-10-27 10:14:13,social broad,c_social_broad_scale,variant_B,desktop,US
 26045,2026-10-27 06:12:00,social broad,c_social_broad_scale,variant_b,mobile,US
-26046,2026-10-27 23:15:54,social broad,c_social_broad_scale,variant_b,mobile,US
+26046,2026-10-27 23:15:54,social broad,c_social_broad_scale,variant_b,desktop,US
 26047,2026-10-27 19:05:33,Social Broad,c_social_broad_scale,variant_B,desktop,US
-26048,2026-10-27 00:17:48,Social Broad,c_social_broad_scale,variant_b,tablet,UK
+26048,2026-10-27 00:17:48,Social Broad,c_social_broad_scale,variant_b,desktop,UK
 26049,2026-10-27 21:54:29,Social Broad,c_social_broad_scale,variant_b,desktop,CA
-26050,2026-10-27 09:29:03,Social Broad,c_social_broad_scale,variant_B,tablet,US
-26051,2026-10-27 00:12:11,Social Broad,c_social_broad_scale,variant_B,mobile,US
-26052,2026-10-27 20:52:55,Social Broad,c_social_broad_scale,Variant_b,mobile,uk
-26053,2026-10-27 14:25:36,social broad,c_social_broad_scale,variant_B,mobile,US
+26050,2026-10-27 09:29:03,Social Broad,c_social_broad_scale,variant_B,desktop,US
+26051,2026-10-27 00:12:11,Social Broad,c_social_broad_scale,variant_B,desktop,US
+26052,2026-10-27 20:52:55,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
+26053,2026-10-27 14:25:36,social broad,c_social_broad_scale,variant_B,desktop,US
 26054,2026-10-27 14:24:51,social broad,c_social_broad_scale,variant_b,desktop,FR
 26055,2026-10-27 19:06:26,social broad,c_social_broad_scale,variant_B,desktop,UK
-26056,2026-10-27 15:22:24,Social Broad,c_social_broad_scale,variant_B,desktop,US
-26057,2026-10-27 15:49:40,Social Broad,c_social_broad_scale,variant_B,desktop,US
+26056,2026-10-27 15:22:24,Social Broad,c_social_broad_scale,variant_B,mobile,US
+26057,2026-10-27 15:49:40,Social Broad,c_social_broad_scale,variant_B,mobile,US
 26058,2026-10-27 17:54:17,Social Broad,c_social_broad_scale,variant_b,desktop,de
-26059,2026-10-27 21:47:38,social broad,c_social_broad_scale,variant_b,desktop,USA
-26060,2026-10-27 20:29:51,Social Broad,c_social_broad_scale,Variant_b,mobile,uk
-26061,2026-10-27 10:15:04,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
-26062,2026-10-27 22:15:04,Social Broad,c_social_broad_scale,Variant_a,mobile,CA
+26059,2026-10-27 21:47:38,social broad,c_social_broad_scale,variant_b,mobile,USA
+26060,2026-10-27 20:29:51,Social Broad,c_social_broad_scale,Variant_b,tablet,uk
+26061,2026-10-27 10:15:04,Social Broad,c_social_broad_scale,Variant_b,mobile,uk
+26062,2026-10-27 22:15:04,Social Broad,c_social_broad_scale,Variant_a,desktop,CA
 26063,2026-10-27 06:04:55,Social Broad,c_social_broad_scale,variant_B,mobile,uk
 26064,2026-10-27 09:54:02,social broad,c_social_broad_scale,Variant_b,desktop,DE
 26065,2026-10-27 03:23:24,Social Broad,c_social_broad_scale,variant_b,desktop,US
 26066,2026-10-27 18:24:12,social broad,c_social_broad_scale,Variant_b,desktop,CA
-26067,2026-10-27 20:17:16,Social Broad,c_social_broad_scale,variant_A,mobile,US
-26068,2026-10-27 09:30:44,social broad,c_social_broad_scale,variant_b,mobile,ca
-26069,2026-10-27 03:21:31,social broad,c_social_broad_scale,Variant_b,desktop,uk
+26067,2026-10-27 20:17:16,Social Broad,c_social_broad_scale,variant_A,desktop,US
+26068,2026-10-27 09:30:44,social broad,c_social_broad_scale,variant_b,desktop,ca
+26069,2026-10-27 03:21:31,social broad,c_social_broad_scale,Variant_b,mobile,uk
 26070,2026-10-27 20:13:10,social broad,c_social_broad_scale,variant_A,,US
 26071,2026-10-27 21:15:54,Social Broad,c_social_broad_scale,variant_b,desktop,US
-26072,2026-10-27 23:06:56,social broad,c_social_broad_scale,variant_b,mobile,USA
+26072,2026-10-27 23:06:56,social broad,c_social_broad_scale,variant_b,desktop,USA
 26073,2026-10-27 15:13:04,social broad,c_social_broad_scale,Variant_b,desktop,US
-26074,2026-10-27 13:15:38,Social Broad,c_social_broad_scale,variant_B,mobile,FR
-26075,2026-10-27 03:38:47,Social Broad,c_social_broad_scale,variant_B,mobile,
+26074,2026-10-27 13:15:38,Social Broad,c_social_broad_scale,variant_B,desktop,FR
+26075,2026-10-27 03:38:47,Social Broad,c_social_broad_scale,variant_B,tablet,
 26076,2026-10-27 14:09:45,social broad,c_social_broad_scale,variant_B,mobile,us
-26077,2026-10-27 15:52:08,Social Broad,c_social_broad_scale,Variant_b,desktop,ca
-26078,2026-10-27 21:41:37,Social Broad,c_social_broad_scale,variant_B,desktop,UK
-26079,2026-10-27 13:33:49,social broad,c_social_broad_scale,variant_B,mobile,us
+26077,2026-10-27 15:52:08,Social Broad,c_social_broad_scale,Variant_b,tablet,ca
+26078,2026-10-27 21:41:37,Social Broad,c_social_broad_scale,variant_B,mobile,UK
+26079,2026-10-27 13:33:49,social broad,c_social_broad_scale,variant_B,desktop,us
 26080,2026-10-27 07:40:03,Social Broad,c_social_broad_scale,Variant_b,desktop,us
 26081,2026-10-27 20:44:01,Social Broad,c_social_broad_scale,variant_A,desktop,UK
-26082,2026-10-27 10:01:24,social broad,c_social_broad_scale,Variant_a,mobile,UK
-26083,2026-10-27 08:38:46,Social Broad,c_social_broad_scale,Variant_b,desktop,CA
+26082,2026-10-27 10:01:24,social broad,c_social_broad_scale,Variant_a,desktop,UK
+26083,2026-10-27 08:38:46,Social Broad,c_social_broad_scale,Variant_b,mobile,CA
 26084,2026-10-27 23:17:35,social broad,c_social_broad_scale,Variant_b,desktop,US
-26085,2026-10-27 20:39:01,Social Broad,c_social_broad_scale,variant_a,mobile,ca
-26086,2026-10-27 04:27:47,social broad,c_social_broad_scale,variant_b,desktop,USA
-26087,2026-10-27 12:42:48,Social Broad,c_social_broad_scale,variant_B,desktop,DE
-26088,2026-10-28 11:06:54,Search,c_google_search,variant_A,mobile,USA
+26085,2026-10-27 20:39:01,Social Broad,c_social_broad_scale,variant_a,desktop,ca
+26086,2026-10-27 04:27:47,social broad,c_social_broad_scale,variant_b,mobile,USA
+26087,2026-10-27 12:42:48,Social Broad,c_social_broad_scale,variant_B,mobile,DE
+26088,2026-10-28 11:06:54,Search,c_google_search,variant_A,desktop,USA
 26089,2026-10-28 08:20:58,Search,c_google_search,Variant_a,mobile,ca
 26090,2026-10-28 09:33:13,search,c_google_search,variant_B,desktop,de
-26091,2026-10-28 14:33:22,search,c_google_search,variant_B,mobile,UK
+26091,2026-10-28 14:33:22,search,c_google_search,variant_B,desktop,UK
 26092,2026-10-28 13:27:19,Search,c_google_search,variant_a,,ca
 26093,2026-10-28 15:12:21,Search,c_google_search,variant_A,desktop,US
 26094,2026-10-28 00:56:51,Search,c_google_search,variant_A,mobile,us
-26095,2026-10-28 07:05:10,Search,c_google_search,variant_B,mobile,UK
-26096,2026-10-28 08:57:25,search,c_google_search,variant_A,desktop,us
+26095,2026-10-28 07:05:10,Search,c_google_search,variant_B,desktop,UK
+26096,2026-10-28 08:57:25,search,c_google_search,variant_A,mobile,us
 26097,2026-10-28 02:11:16,Search,c_google_search,Variant_a,mobile,USA
 26098,2026-10-28 05:30:32,search,c_google_search,variant_a,desktop,US
-26099,2026-10-28 07:39:40,Search,c_google_search,variant_A,desktop,US
+26099,2026-10-28 07:39:40,Search,c_google_search,variant_A,mobile,US
 26100,2026-10-28 00:10:51,Search,c_google_search,Variant_a,,de
-26101,2026-10-28 12:44:31,search,c_google_search,variant_a,mobile,DE
+26101,2026-10-28 12:44:31,search,c_google_search,variant_a,desktop,DE
 26102,2026-10-28 09:57:21,Search,c_google_search,variant_a,mobile,uk
 26103,2026-10-28 03:50:40,Search,c_google_search,Variant_a,mobile,UK
-26104,2026-10-28 22:30:56,Search,c_google_search,variant_a,mobile,
+26104,2026-10-28 22:30:56,Search,c_google_search,variant_a,desktop,
 26105,2026-10-28 09:26:56,Search,c_google_search,variant_a,mobile,UK
-26106,2026-10-28 02:10:57,search,c_google_search,Variant_a,mobile,us
-26107,2026-10-28 10:08:07,search,c_google_search,Variant_a,mobile,US
-26108,2026-10-28 09:29:00,Search,c_google_search,variant_a,mobile,de
-26109,2026-10-28 23:11:14,Search,c_google_search,variant_A,tablet,FR
+26106,2026-10-28 02:10:57,search,c_google_search,Variant_a,desktop,us
+26107,2026-10-28 10:08:07,search,c_google_search,Variant_a,tablet,US
+26108,2026-10-28 09:29:00,Search,c_google_search,variant_a,desktop,de
+26109,2026-10-28 23:11:14,Search,c_google_search,variant_A,desktop,FR
 26110,2026-10-28 20:24:51,Search,c_google_search,variant_A,desktop,
 26111,2026-10-28 16:44:03,Search,c_google_search,Variant_a,desktop,US
-26112,2026-10-28 03:25:22,Search,c_google_search,variant_a,desktop,FR
+26112,2026-10-28 03:25:22,Search,c_google_search,variant_a,mobile,FR
 26113,2026-10-28 05:00:51,Search,c_google_search,variant_a,mobile,USA
-26114,2026-10-28 02:12:05,Search,c_google_search,variant_A,mobile,DE
-26115,2026-10-28 04:19:46,search,c_google_search,variant_a,tablet,US
+26114,2026-10-28 02:12:05,Search,c_google_search,variant_A,desktop,DE
+26115,2026-10-28 04:19:46,search,c_google_search,variant_a,desktop,US
 26116,2026-10-28 00:48:06,search,c_google_search,variant_A,desktop,ca
-26117,2026-10-28 19:25:03,search,c_google_search,variant_A,mobile,US
+26117,2026-10-28 19:25:03,search,c_google_search,variant_A,desktop,US
 26118,2026-10-28 02:49:37,search,c_google_search,variant_A,mobile,UK
 26119,2026-10-28 01:36:47,Search,c_google_search,Variant_a,mobile,US
-26120,2026-10-28 19:25:17,Search,c_google_search,variant_a,desktop,US
-26121,2026-10-28 20:03:14,Search,c_google_search,Variant_a,mobile,de
-26122,2026-10-28 21:16:02,fb / social,c_fb_retargeting,Variant_a,tablet,
+26120,2026-10-28 19:25:17,Search,c_google_search,variant_a,tablet,US
+26121,2026-10-28 20:03:14,Search,c_google_search,Variant_a,desktop,de
+26122,2026-10-28 21:16:02,fb / social,c_fb_retargeting,Variant_a,desktop,
 26123,2026-10-28 14:17:09,Social,c_fb_retargeting,variant_A,mobile,us
 26124,2026-10-28 09:09:34,Social,c_fb_retargeting,Variant_a,mobile,US
-26125,2026-10-28 16:43:55,fb / social,c_fb_retargeting,variant_A,desktop,UK
-26126,2026-10-28 00:17:01,Social,c_fb_retargeting,variant_a,tablet,
+26125,2026-10-28 16:43:55,fb / social,c_fb_retargeting,variant_A,mobile,UK
+26126,2026-10-28 00:17:01,Social,c_fb_retargeting,variant_a,desktop,
 26127,2026-10-28 21:41:29,Social,c_fb_retargeting,Variant_a,desktop,ca
 26128,2026-10-28 20:35:19,Social,c_fb_retargeting,variant_A,mobile,FR
 26129,2026-10-28 06:33:42,Social,c_fb_retargeting,Variant_a,mobile,US
-26130,2026-10-28 19:09:57,fb / social,c_fb_retargeting,variant_B,desktop,FR
-26131,2026-10-28 05:05:32,fb / social,c_fb_retargeting,Variant_a,mobile,DE
-26132,2026-10-28 07:34:37,Social,c_fb_retargeting,Variant_a,mobile,FR
+26130,2026-10-28 19:09:57,fb / social,c_fb_retargeting,variant_B,mobile,FR
+26131,2026-10-28 05:05:32,fb / social,c_fb_retargeting,Variant_a,desktop,DE
+26132,2026-10-28 07:34:37,Social,c_fb_retargeting,Variant_a,tablet,FR
 26133,2026-10-28 23:05:50,fb / social,c_fb_retargeting,Variant_a,desktop,UK
-26134,2026-10-28 04:12:19,fb / social,c_fb_retargeting,variant_a,mobile,
-26135,2026-10-28 10:09:35,Social,c_fb_retargeting,variant_a,desktop,DE
-26136,2026-10-28 16:20:00,Social,c_fb_retargeting,variant_A,desktop,
+26134,2026-10-28 04:12:19,fb / social,c_fb_retargeting,variant_a,tablet,
+26135,2026-10-28 10:09:35,Social,c_fb_retargeting,variant_a,mobile,DE
+26136,2026-10-28 16:20:00,Social,c_fb_retargeting,variant_A,mobile,
 26137,2026-10-28 17:51:32,Social,c_fb_retargeting,variant_A,,USA
 26138,2026-10-28 18:20:48,Social,c_fb_retargeting,Variant_a,desktop,DE
 26139,2026-10-28 23:43:26,fb / social,c_fb_retargeting,Variant_a,desktop,FR
-26140,2026-10-28 19:03:14,Social,c_fb_retargeting,Variant_a,mobile,USA
-26141,2026-10-28 08:40:37,fb / social,c_fb_retargeting,variant_A,mobile,DE
+26140,2026-10-28 19:03:14,Social,c_fb_retargeting,Variant_a,desktop,USA
+26141,2026-10-28 08:40:37,fb / social,c_fb_retargeting,variant_A,desktop,DE
 26142,2026-10-28 22:24:45,fb / social,c_fb_retargeting,Variant_a,desktop,
-26143,2026-10-28 11:55:02,fb / social,c_fb_retargeting,variant_A,mobile,US
-26144,2026-10-28 00:10:52,fb / social,c_fb_retargeting,variant_b,desktop,FR
+26143,2026-10-28 11:55:02,fb / social,c_fb_retargeting,variant_A,desktop,US
+26144,2026-10-28 00:10:52,fb / social,c_fb_retargeting,variant_b,mobile,FR
 26145,2026-10-28 21:10:56,fb / social,c_fb_retargeting,variant_A,desktop,ca
 26146,2026-10-28 07:46:02,fb / social,c_fb_retargeting,Variant_b,mobile,UK
-26147,2026-10-28 20:38:56,fb / social,c_fb_retargeting,variant_B,desktop,USA
-26148,2026-10-28 03:54:54,affiliate,c_blogs_affiliate,variant_a,mobile,CA
-26149,2026-10-28 02:10:58,affiliate,c_blogs_affiliate,Variant_a,mobile,CA
-26150,2026-10-28 10:16:34,affiliate,c_blogs_affiliate,variant_a,mobile,USA
-26151,2026-10-28 08:45:50,affiliate,c_blogs_affiliate,Variant_a,tablet,US
+26147,2026-10-28 20:38:56,fb / social,c_fb_retargeting,variant_B,mobile,USA
+26148,2026-10-28 03:54:54,affiliate,c_blogs_affiliate,variant_a,desktop,CA
+26149,2026-10-28 02:10:58,affiliate,c_blogs_affiliate,Variant_a,desktop,CA
+26150,2026-10-28 10:16:34,affiliate,c_blogs_affiliate,variant_a,desktop,USA
+26151,2026-10-28 08:45:50,affiliate,c_blogs_affiliate,Variant_a,mobile,US
 26152,2026-10-28 04:55:17,affiliate,c_blogs_affiliate,Variant_a,mobile,uk
 26153,2026-10-28 03:58:55,affiliate,c_blogs_affiliate,Variant_a,desktop,USA
-26154,2026-10-28 04:25:35,Affiliate,c_blogs_affiliate,variant_B,desktop,ca
-26155,2026-10-28 03:30:09,video,c_youtube_tech,variant_a,mobile,US
-26156,2026-10-28 03:02:14,Video,c_youtube_tech,variant_a,desktop,UK
-26157,2026-10-28 19:58:33,video,c_youtube_tech,variant_A,tablet,de
-26158,2026-10-28 09:18:21,video,c_youtube_tech,Variant_a,desktop,us
+26154,2026-10-28 04:25:35,Affiliate,c_blogs_affiliate,variant_B,mobile,ca
+26155,2026-10-28 03:30:09,video,c_youtube_tech,variant_a,desktop,US
+26156,2026-10-28 03:02:14,Video,c_youtube_tech,variant_a,mobile,UK
+26157,2026-10-28 19:58:33,video,c_youtube_tech,variant_A,desktop,de
+26158,2026-10-28 09:18:21,video,c_youtube_tech,Variant_a,mobile,us
 26159,2026-10-28 07:06:23,video,c_youtube_tech,variant_a,mobile,ca
-26160,2026-10-28 09:21:55,Video,c_youtube_tech,Variant_a,desktop,CA
-26161,2026-10-28 11:24:30,Video,c_youtube_tech,Variant_a,mobile,US
+26160,2026-10-28 09:21:55,Video,c_youtube_tech,Variant_a,mobile,CA
+26161,2026-10-28 11:24:30,Video,c_youtube_tech,Variant_a,desktop,US
 26162,2026-10-28 08:48:35,Video,c_youtube_tech,variant_a,desktop,UK
-26163,2026-10-28 17:04:19,video,c_youtube_tech,variant_A,desktop,UK
+26163,2026-10-28 17:04:19,video,c_youtube_tech,variant_A,mobile,UK
 26164,2026-10-28 05:42:57,video,c_youtube_tech,variant_A,desktop,ca
-26165,2026-10-28 18:27:43,Video,c_youtube_tech,variant_b,mobile,DE
-26166,2026-10-28 16:48:31,video,c_youtube_tech,variant_A,tablet,us
+26165,2026-10-28 18:27:43,Video,c_youtube_tech,variant_b,desktop,DE
+26166,2026-10-28 16:48:31,video,c_youtube_tech,variant_A,mobile,us
 26167,2026-10-28 13:12:53,video,c_youtube_tech,variant_A,desktop,de
-26168,2026-10-28 18:30:17,video,c_youtube_tech,variant_A,mobile,us
+26168,2026-10-28 18:30:17,video,c_youtube_tech,variant_A,desktop,us
 26169,2026-10-28 03:08:44,Video,c_youtube_tech,variant_B,mobile,USA
 26170,2026-10-28 08:11:53,video,c_youtube_tech,Variant_a,,US
-26171,2026-10-28 21:38:14,video,c_youtube_tech,variant_A,mobile,ca
+26171,2026-10-28 21:38:14,video,c_youtube_tech,variant_A,desktop,ca
 26172,2026-10-28 04:36:40,video,c_youtube_tech,variant_a,mobile,US
-26173,2026-10-28 06:24:18,Video,c_youtube_tech,variant_a,desktop,US
+26173,2026-10-28 06:24:18,Video,c_youtube_tech,variant_a,mobile,US
 26174,2026-10-28 19:56:22,Video,c_youtube_tech,variant_a,desktop,FR
 26175,2026-10-28 22:47:02,video,c_youtube_tech,Variant_a,mobile,USA
 26176,2026-10-28 06:54:32,video,c_youtube_tech,variant_b,mobile,DE
-26177,2026-10-28 11:57:40,Social Broad,c_social_broad_scale,variant_B,mobile,uk
+26177,2026-10-28 11:57:40,Social Broad,c_social_broad_scale,variant_B,desktop,uk
 26178,2026-10-28 15:02:49,social broad,c_social_broad_scale,variant_B,desktop,DE
-26179,2026-10-28 21:34:48,social broad,c_social_broad_scale,Variant_b,mobile,de
-26180,2026-10-28 15:42:18,social broad,c_social_broad_scale,variant_B,desktop,US
-26181,2026-10-28 18:26:05,Social Broad,c_social_broad_scale,variant_b,desktop,ca
+26179,2026-10-28 21:34:48,social broad,c_social_broad_scale,Variant_b,desktop,de
+26180,2026-10-28 15:42:18,social broad,c_social_broad_scale,variant_B,mobile,US
+26181,2026-10-28 18:26:05,Social Broad,c_social_broad_scale,variant_b,mobile,ca
 26182,2026-10-28 01:12:32,social broad,c_social_broad_scale,Variant_b,desktop,UK
 26183,2026-10-28 21:21:24,social broad,c_social_broad_scale,variant_b,mobile,US
-26184,2026-10-28 01:01:59,social broad,c_social_broad_scale,variant_b,desktop,DE
-26185,2026-10-28 19:05:53,Social Broad,c_social_broad_scale,variant_B,mobile,de
+26184,2026-10-28 01:01:59,social broad,c_social_broad_scale,variant_b,mobile,DE
+26185,2026-10-28 19:05:53,Social Broad,c_social_broad_scale,variant_B,desktop,de
 26186,2026-10-28 02:35:06,social broad,c_social_broad_scale,variant_b,,USA
 26187,2026-10-28 04:59:09,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
 26188,2026-10-28 06:51:26,social broad,c_social_broad_scale,variant_b,mobile,USA
 26189,2026-10-28 01:27:39,social broad,c_social_broad_scale,Variant_b,mobile,US
 26190,2026-10-28 01:21:13,social broad,c_social_broad_scale,variant_B,,uk
-26191,2026-10-28 11:25:58,Social Broad,c_social_broad_scale,Variant_b,desktop,USA
+26191,2026-10-28 11:25:58,Social Broad,c_social_broad_scale,Variant_b,mobile,USA
 26192,2026-10-28 18:59:34,Social Broad,c_social_broad_scale,variant_b,mobile,CA
-26193,2026-10-28 17:02:36,Social Broad,c_social_broad_scale,Variant_a,desktop,US
+26193,2026-10-28 17:02:36,Social Broad,c_social_broad_scale,Variant_a,mobile,US
 26194,2026-10-28 01:36:55,Social Broad,c_social_broad_scale,Variant_b,mobile,us
-26195,2026-10-28 08:58:53,social broad,c_social_broad_scale,Variant_b,desktop,DE
-26196,2026-10-28 21:14:00,social broad,c_social_broad_scale,variant_B,desktop,
+26195,2026-10-28 08:58:53,social broad,c_social_broad_scale,Variant_b,mobile,DE
+26196,2026-10-28 21:14:00,social broad,c_social_broad_scale,variant_B,mobile,
 26197,2026-10-28 00:42:56,Social Broad,c_social_broad_scale,Variant_b,desktop,US
 26198,2026-10-28 06:09:57,Social Broad,c_social_broad_scale,variant_B,mobile,us
 26199,2026-10-28 08:45:48,social broad,c_social_broad_scale,variant_b,mobile,UK
-26200,2026-10-28 14:14:33,Social Broad,c_social_broad_scale,variant_b,desktop,
-26201,2026-10-28 13:12:28,Social Broad,c_social_broad_scale,variant_B,mobile,DE
-26202,2026-10-28 20:33:32,Social Broad,c_social_broad_scale,variant_B,mobile,US
-26203,2026-10-28 21:16:25,social broad,c_social_broad_scale,Variant_b,mobile,USA
+26200,2026-10-28 14:14:33,Social Broad,c_social_broad_scale,variant_b,mobile,
+26201,2026-10-28 13:12:28,Social Broad,c_social_broad_scale,variant_B,tablet,DE
+26202,2026-10-28 20:33:32,Social Broad,c_social_broad_scale,variant_B,desktop,US
+26203,2026-10-28 21:16:25,social broad,c_social_broad_scale,Variant_b,desktop,USA
 26204,2026-10-28 06:53:12,Social Broad,c_social_broad_scale,variant_b,desktop,US
-26205,2026-10-28 02:32:08,Social Broad,c_social_broad_scale,variant_B,desktop,ca
+26205,2026-10-28 02:32:08,Social Broad,c_social_broad_scale,variant_B,mobile,ca
 26206,2026-10-28 17:13:56,Social Broad,c_social_broad_scale,variant_b,mobile,CA
-26207,2026-10-28 22:39:32,Social Broad,c_social_broad_scale,variant_b,desktop,DE
+26207,2026-10-28 22:39:32,Social Broad,c_social_broad_scale,variant_b,tablet,DE
 26208,2026-10-28 23:46:49,social broad,c_social_broad_scale,variant_A,desktop,us
 26209,2026-10-28 03:20:36,Social Broad,c_social_broad_scale,Variant_a,mobile,FR
-26210,2026-10-28 20:21:05,social broad,c_social_broad_scale,variant_B,desktop,de
-26211,2026-10-28 05:47:49,Social Broad,c_social_broad_scale,variant_b,desktop,FR
+26210,2026-10-28 20:21:05,social broad,c_social_broad_scale,variant_B,mobile,de
+26211,2026-10-28 05:47:49,Social Broad,c_social_broad_scale,variant_b,mobile,FR
 26212,2026-10-28 02:47:42,Social Broad,c_social_broad_scale,variant_B,desktop,US
 26213,2026-10-28 00:47:36,Social Broad,c_social_broad_scale,Variant_b,mobile,CA
-26214,2026-10-28 16:06:55,Social Broad,c_social_broad_scale,variant_b,desktop,de
-26215,2026-10-28 02:39:02,social broad,c_social_broad_scale,variant_b,mobile,USA
+26214,2026-10-28 16:06:55,Social Broad,c_social_broad_scale,variant_b,tablet,de
+26215,2026-10-28 02:39:02,social broad,c_social_broad_scale,variant_b,tablet,USA
 26216,2026-10-28 07:31:09,Social Broad,c_social_broad_scale,variant_b,mobile,uk
-26217,2026-10-28 21:49:44,social broad,c_social_broad_scale,variant_A,desktop,US
+26217,2026-10-28 21:49:44,social broad,c_social_broad_scale,variant_A,mobile,US
 26218,2026-10-28 04:51:40,Social Broad,c_social_broad_scale,variant_b,desktop,US
 26219,2026-10-28 06:31:10,social broad,c_social_broad_scale,variant_A,desktop,uk
-26220,2026-10-28 17:58:04,Social Broad,c_social_broad_scale,variant_B,mobile,USA
+26220,2026-10-28 17:58:04,Social Broad,c_social_broad_scale,variant_B,tablet,USA
 26221,2026-10-28 02:51:55,social broad,c_social_broad_scale,variant_b,desktop,UK
-26222,2026-10-28 01:41:02,social broad,c_social_broad_scale,variant_b,mobile,de
+26222,2026-10-28 01:41:02,social broad,c_social_broad_scale,variant_b,desktop,de
 26223,2026-10-28 11:35:34,social broad,c_social_broad_scale,variant_B,desktop,CA
-26224,2026-10-28 15:57:41,social broad,c_social_broad_scale,variant_b,desktop,
-26225,2026-10-28 03:15:40,Social Broad,c_social_broad_scale,Variant_b,desktop,US
-26226,2026-10-28 04:07:53,social broad,c_social_broad_scale,variant_b,mobile,US
-26227,2026-10-28 22:40:51,Social Broad,c_social_broad_scale,Variant_b,desktop,de
-26228,2026-10-28 06:26:41,Social Broad,c_social_broad_scale,variant_b,desktop,DE
+26224,2026-10-28 15:57:41,social broad,c_social_broad_scale,variant_b,mobile,
+26225,2026-10-28 03:15:40,Social Broad,c_social_broad_scale,Variant_b,mobile,US
+26226,2026-10-28 04:07:53,social broad,c_social_broad_scale,variant_b,desktop,US
+26227,2026-10-28 22:40:51,Social Broad,c_social_broad_scale,Variant_b,mobile,de
+26228,2026-10-28 06:26:41,Social Broad,c_social_broad_scale,variant_b,mobile,DE
 26229,2026-10-28 06:18:32,social broad,c_social_broad_scale,variant_B,,FR
-26230,2026-10-28 21:39:23,Social Broad,c_social_broad_scale,Variant_b,mobile,US
+26230,2026-10-28 21:39:23,Social Broad,c_social_broad_scale,Variant_b,desktop,US
 26231,2026-10-28 00:02:21,Social Broad,c_social_broad_scale,variant_b,mobile,de
 26232,2026-10-28 06:35:36,social broad,c_social_broad_scale,variant_a,mobile,UK
-26233,2026-10-28 03:39:48,social broad,c_social_broad_scale,variant_a,mobile,UK
+26233,2026-10-28 03:39:48,social broad,c_social_broad_scale,variant_a,desktop,UK
 26234,2026-10-28 21:55:47,Social Broad,c_social_broad_scale,Variant_b,desktop,US
 26235,2026-10-28 12:27:11,Social Broad,c_social_broad_scale,variant_b,desktop,US
-26236,2026-10-28 21:56:27,social broad,c_social_broad_scale,Variant_b,mobile,DE
+26236,2026-10-28 21:56:27,social broad,c_social_broad_scale,Variant_b,desktop,DE
 26237,2026-10-28 19:19:02,social broad,c_social_broad_scale,Variant_b,desktop,DE
 26238,2026-10-28 00:04:10,social broad,c_social_broad_scale,variant_b,mobile,US
-26239,2026-10-28 17:23:40,Social Broad,c_social_broad_scale,variant_B,desktop,ca
-26240,2026-10-28 09:46:10,Social Broad,c_social_broad_scale,Variant_b,desktop,UK
+26239,2026-10-28 17:23:40,Social Broad,c_social_broad_scale,variant_B,mobile,ca
+26240,2026-10-28 09:46:10,Social Broad,c_social_broad_scale,Variant_b,mobile,UK
 26241,2026-10-28 23:10:43,social broad,c_social_broad_scale,variant_B,desktop,FR
-26242,2026-10-28 13:05:29,Social Broad,c_social_broad_scale,variant_b,desktop,US
-26243,2026-10-28 13:09:37,social broad,c_social_broad_scale,Variant_b,mobile,uk
+26242,2026-10-28 13:05:29,Social Broad,c_social_broad_scale,variant_b,mobile,US
+26243,2026-10-28 13:09:37,social broad,c_social_broad_scale,Variant_b,desktop,uk
 26244,2026-10-28 00:18:11,social broad,c_social_broad_scale,variant_b,desktop,USA
-26245,2026-10-28 21:10:43,Social Broad,c_social_broad_scale,variant_b,desktop,USA
+26245,2026-10-28 21:10:43,Social Broad,c_social_broad_scale,variant_b,mobile,USA
 26246,2026-10-28 14:26:24,social broad,c_social_broad_scale,variant_b,mobile,ca
 26247,2026-10-28 04:17:47,Social Broad,c_social_broad_scale,variant_b,desktop,CA
 26248,2026-10-28 04:22:39,social broad,c_social_broad_scale,variant_B,mobile,ca
 26249,2026-10-28 13:26:43,social broad,c_social_broad_scale,Variant_b,mobile,CA
-26250,2026-10-28 04:48:26,Social Broad,c_social_broad_scale,variant_b,tablet,UK
+26250,2026-10-28 04:48:26,Social Broad,c_social_broad_scale,variant_b,mobile,UK
 26251,2026-10-28 23:54:02,social broad,c_social_broad_scale,Variant_b,mobile,USA
-26252,2026-10-28 14:00:02,Social Broad,c_social_broad_scale,variant_B,desktop,DE
-26253,2026-10-28 06:29:25,social broad,c_social_broad_scale,variant_b,tablet,ca
+26252,2026-10-28 14:00:02,Social Broad,c_social_broad_scale,variant_B,tablet,DE
+26253,2026-10-28 06:29:25,social broad,c_social_broad_scale,variant_b,mobile,ca
 26254,2026-10-28 21:26:28,Social Broad,c_social_broad_scale,variant_b,mobile,USA
-26255,2026-10-28 06:42:22,social broad,c_social_broad_scale,Variant_b,mobile,us
+26255,2026-10-28 06:42:22,social broad,c_social_broad_scale,Variant_b,desktop,us
 26256,2026-10-28 05:05:46,Social Broad,c_social_broad_scale,variant_b,desktop,FR
-26257,2026-10-28 10:33:17,social broad,c_social_broad_scale,Variant_b,tablet,ca
+26257,2026-10-28 10:33:17,social broad,c_social_broad_scale,Variant_b,mobile,ca
 26258,2026-10-28 06:15:05,social broad,c_social_broad_scale,variant_b,mobile,US
-26259,2026-10-28 11:18:42,Social Broad,c_social_broad_scale,variant_b,mobile,
-26260,2026-10-28 23:17:13,Social Broad,c_social_broad_scale,variant_B,desktop,FR
+26259,2026-10-28 11:18:42,Social Broad,c_social_broad_scale,variant_b,desktop,
+26260,2026-10-28 23:17:13,Social Broad,c_social_broad_scale,variant_B,tablet,FR
 26261,2026-10-28 07:00:40,Social Broad,c_social_broad_scale,variant_b,desktop,us
-26262,2026-10-28 08:51:46,Social Broad,c_social_broad_scale,Variant_a,tablet,de
+26262,2026-10-28 08:51:46,Social Broad,c_social_broad_scale,Variant_a,mobile,de
 26263,2026-10-28 11:07:38,Social Broad,c_social_broad_scale,variant_B,desktop,USA
 26264,2026-10-28 09:01:25,Social Broad,c_social_broad_scale,Variant_b,,US
 26265,2026-10-28 12:04:59,Social Broad,c_social_broad_scale,Variant_b,mobile,uk
@@ -16268,417 +16268,417 @@ user_id,created_at,acquisition_channel,campaign_id,landing_variant,device,countr
 26267,2026-10-29 12:25:45,search,c_google_search,variant_A,desktop,DE
 26268,2026-10-29 21:49:39,search,c_google_search,Variant_a,desktop,de
 26269,2026-10-29 08:42:23,Search,c_google_search,variant_a,desktop,US
-26270,2026-10-29 07:24:35,search,c_google_search,variant_A,desktop,UK
-26271,2026-10-29 09:48:26,Search,c_google_search,variant_b,desktop,us
-26272,2026-10-29 11:25:46,Search,c_google_search,Variant_a,mobile,USA
-26273,2026-10-29 12:41:42,search,c_google_search,variant_A,desktop,US
-26274,2026-10-29 02:29:21,Search,c_google_search,variant_a,desktop,DE
-26275,2026-10-29 23:17:10,Search,c_google_search,variant_A,desktop,uk
+26270,2026-10-29 07:24:35,search,c_google_search,variant_A,mobile,UK
+26271,2026-10-29 09:48:26,Search,c_google_search,variant_b,tablet,us
+26272,2026-10-29 11:25:46,Search,c_google_search,Variant_a,desktop,USA
+26273,2026-10-29 12:41:42,search,c_google_search,variant_A,mobile,US
+26274,2026-10-29 02:29:21,Search,c_google_search,variant_a,mobile,DE
+26275,2026-10-29 23:17:10,Search,c_google_search,variant_A,tablet,uk
 26276,2026-10-29 20:09:23,search,c_google_search,variant_B,mobile,uk
-26277,2026-10-29 22:14:24,search,c_google_search,variant_a,desktop,US
+26277,2026-10-29 22:14:24,search,c_google_search,variant_a,mobile,US
 26278,2026-10-29 01:35:23,Search,c_google_search,variant_A,desktop,FR
-26279,2026-10-29 21:11:41,Search,c_google_search,Variant_a,mobile,FR
-26280,2026-10-29 06:57:06,search,c_google_search,variant_A,mobile,US
-26281,2026-10-29 07:32:03,search,c_google_search,variant_a,desktop,CA
+26279,2026-10-29 21:11:41,Search,c_google_search,Variant_a,desktop,FR
+26280,2026-10-29 06:57:06,search,c_google_search,variant_A,desktop,US
+26281,2026-10-29 07:32:03,search,c_google_search,variant_a,mobile,CA
 26282,2026-10-29 21:20:35,Search,c_google_search,variant_b,mobile,USA
-26283,2026-10-29 03:09:29,Search,c_google_search,variant_a,tablet,uk
-26284,2026-10-29 00:18:51,Search,c_google_search,Variant_b,tablet,DE
+26283,2026-10-29 03:09:29,Search,c_google_search,variant_a,mobile,uk
+26284,2026-10-29 00:18:51,Search,c_google_search,Variant_b,mobile,DE
 26285,2026-10-29 11:15:23,search,c_google_search,variant_A,,UK
 26286,2026-10-29 14:16:00,Search,c_google_search,Variant_a,mobile,US
 26287,2026-10-29 22:04:19,search,c_google_search,variant_A,desktop,FR
 26288,2026-10-29 16:32:02,Search,c_google_search,variant_a,desktop,us
 26289,2026-10-29 02:53:57,search,c_google_search,variant_a,desktop,US
-26290,2026-10-29 11:21:30,Search,c_google_search,variant_A,desktop,
+26290,2026-10-29 11:21:30,Search,c_google_search,variant_A,mobile,
 26291,2026-10-29 13:15:47,Search,c_google_search,variant_a,desktop,DE
 26292,2026-10-29 07:26:44,search,c_google_search,variant_a,mobile,us
 26293,2026-10-29 23:13:16,Search,c_google_search,variant_a,desktop,us
 26294,2026-10-29 18:46:03,Search,c_google_search,variant_A,desktop,DE
-26295,2026-10-29 13:01:09,search,c_google_search,variant_A,desktop,US
-26296,2026-10-29 07:34:30,search,c_google_search,variant_a,desktop,US
+26295,2026-10-29 13:01:09,search,c_google_search,variant_A,mobile,US
+26296,2026-10-29 07:34:30,search,c_google_search,variant_a,mobile,US
 26297,2026-10-29 13:51:07,Search,c_google_search,Variant_a,desktop,US
 26298,2026-10-29 13:13:22,search,c_google_search,variant_a,desktop,US
-26299,2026-10-29 18:44:58,Social,c_fb_retargeting,Variant_b,desktop,
-26300,2026-10-29 10:39:18,fb / social,c_fb_retargeting,Variant_a,mobile,US
+26299,2026-10-29 18:44:58,Social,c_fb_retargeting,Variant_b,mobile,
+26300,2026-10-29 10:39:18,fb / social,c_fb_retargeting,Variant_a,desktop,US
 26301,2026-10-29 00:55:52,fb / social,c_fb_retargeting,variant_a,mobile,US
 26302,2026-10-29 10:21:13,fb / social,c_fb_retargeting,variant_A,desktop,US
-26303,2026-10-29 17:14:33,Social,c_fb_retargeting,variant_a,mobile,USA
+26303,2026-10-29 17:14:33,Social,c_fb_retargeting,variant_a,desktop,USA
 26304,2026-10-29 17:58:19,fb / social,c_fb_retargeting,variant_a,desktop,de
 26305,2026-10-29 06:24:39,fb / social,c_fb_retargeting,variant_a,mobile,USA
-26306,2026-10-29 06:47:24,Social,c_fb_retargeting,variant_B,desktop,FR
-26307,2026-10-29 05:13:54,Social,c_fb_retargeting,variant_a,mobile,ca
+26306,2026-10-29 06:47:24,Social,c_fb_retargeting,variant_B,mobile,FR
+26307,2026-10-29 05:13:54,Social,c_fb_retargeting,variant_a,desktop,ca
 26308,2026-10-29 02:17:01,fb / social,c_fb_retargeting,variant_a,mobile,UK
-26309,2026-10-29 05:50:43,fb / social,c_fb_retargeting,Variant_a,desktop,US
+26309,2026-10-29 05:50:43,fb / social,c_fb_retargeting,Variant_a,mobile,US
 26310,2026-10-29 04:42:14,fb / social,c_fb_retargeting,variant_A,mobile,US
 26311,2026-10-29 12:56:10,fb / social,c_fb_retargeting,variant_A,desktop,de
 26312,2026-10-29 09:09:43,fb / social,c_fb_retargeting,Variant_a,desktop,FR
-26313,2026-10-29 02:35:19,fb / social,c_fb_retargeting,Variant_b,desktop,USA
+26313,2026-10-29 02:35:19,fb / social,c_fb_retargeting,Variant_b,mobile,USA
 26314,2026-10-29 14:10:17,Social,c_fb_retargeting,variant_A,desktop,FR
 26315,2026-10-29 21:36:54,Social,c_fb_retargeting,Variant_a,desktop,US
-26316,2026-10-29 00:19:43,Social,c_fb_retargeting,variant_B,desktop,US
+26316,2026-10-29 00:19:43,Social,c_fb_retargeting,variant_B,mobile,US
 26317,2026-10-29 01:05:03,fb / social,c_fb_retargeting,Variant_b,desktop,us
-26318,2026-10-29 23:28:22,fb / social,c_fb_retargeting,variant_a,mobile,FR
+26318,2026-10-29 23:28:22,fb / social,c_fb_retargeting,variant_a,desktop,FR
 26319,2026-10-29 07:52:59,Social,c_fb_retargeting,Variant_a,desktop,de
-26320,2026-10-29 06:54:17,fb / social,c_fb_retargeting,variant_b,desktop,ca
+26320,2026-10-29 06:54:17,fb / social,c_fb_retargeting,variant_b,mobile,ca
 26321,2026-10-29 19:31:14,fb / social,c_fb_retargeting,variant_a,desktop,UK
 26322,2026-10-29 08:57:23,Affiliate,c_blogs_affiliate,variant_A,mobile,CA
 26323,2026-10-29 01:04:21,affiliate,c_blogs_affiliate,variant_a,mobile,UK
 26324,2026-10-29 00:06:03,affiliate,c_blogs_affiliate,variant_A,desktop,
 26325,2026-10-29 07:10:59,Affiliate,c_blogs_affiliate,variant_a,desktop,CA
-26326,2026-10-29 11:29:59,Affiliate,c_blogs_affiliate,Variant_a,mobile,US
-26327,2026-10-29 17:03:47,Affiliate,c_blogs_affiliate,Variant_a,desktop,de
+26326,2026-10-29 11:29:59,Affiliate,c_blogs_affiliate,Variant_a,desktop,US
+26327,2026-10-29 17:03:47,Affiliate,c_blogs_affiliate,Variant_a,mobile,de
 26328,2026-10-29 21:49:45,affiliate,c_blogs_affiliate,variant_A,desktop,FR
 26329,2026-10-29 10:08:04,Video,c_youtube_tech,Variant_a,mobile,DE
-26330,2026-10-29 13:54:40,video,c_youtube_tech,Variant_a,mobile,US
+26330,2026-10-29 13:54:40,video,c_youtube_tech,Variant_a,desktop,US
 26331,2026-10-29 05:45:12,video,c_youtube_tech,variant_a,desktop,USA
-26332,2026-10-29 19:38:48,Video,c_youtube_tech,variant_a,mobile,de
+26332,2026-10-29 19:38:48,Video,c_youtube_tech,variant_a,desktop,de
 26333,2026-10-29 07:46:50,video,c_youtube_tech,Variant_a,mobile,de
-26334,2026-10-29 11:51:49,video,c_youtube_tech,variant_A,mobile,FR
+26334,2026-10-29 11:51:49,video,c_youtube_tech,variant_A,desktop,FR
 26335,2026-10-29 09:01:07,video,c_youtube_tech,variant_a,desktop,de
 26336,2026-10-29 12:12:13,video,c_youtube_tech,variant_A,mobile,ca
-26337,2026-10-29 12:29:54,Video,c_youtube_tech,variant_a,desktop,ca
+26337,2026-10-29 12:29:54,Video,c_youtube_tech,variant_a,mobile,ca
 26338,2026-10-29 23:05:21,Video,c_youtube_tech,Variant_a,mobile,DE
 26339,2026-10-29 18:49:39,video,c_youtube_tech,variant_a,mobile,FR
-26340,2026-10-29 05:34:00,Video,c_youtube_tech,variant_A,desktop,us
+26340,2026-10-29 05:34:00,Video,c_youtube_tech,variant_A,mobile,us
 26341,2026-10-29 19:22:03,video,c_youtube_tech,variant_A,desktop,US
 26342,2026-10-29 07:26:24,video,c_youtube_tech,variant_A,desktop,US
 26343,2026-10-29 09:26:07,video,c_youtube_tech,variant_a,,uk
 26344,2026-10-29 14:41:50,video,c_youtube_tech,variant_a,desktop,DE
 26345,2026-10-29 07:32:49,video,c_youtube_tech,variant_A,mobile,FR
-26346,2026-10-29 16:48:12,video,c_youtube_tech,variant_a,mobile,US
-26347,2026-10-29 10:21:35,video,c_youtube_tech,variant_a,mobile,uk
+26346,2026-10-29 16:48:12,video,c_youtube_tech,variant_a,desktop,US
+26347,2026-10-29 10:21:35,video,c_youtube_tech,variant_a,desktop,uk
 26348,2026-10-29 10:48:43,Video,c_youtube_tech,variant_a,desktop,US
-26349,2026-10-29 19:33:26,Video,c_youtube_tech,variant_A,mobile,US
-26350,2026-10-29 02:39:54,Video,c_youtube_tech,variant_a,desktop,US
-26351,2026-10-29 18:50:34,video,c_youtube_tech,variant_a,mobile,CA
-26352,2026-10-29 19:58:57,Video,c_youtube_tech,variant_A,mobile,US
+26349,2026-10-29 19:33:26,Video,c_youtube_tech,variant_A,desktop,US
+26350,2026-10-29 02:39:54,Video,c_youtube_tech,variant_a,mobile,US
+26351,2026-10-29 18:50:34,video,c_youtube_tech,variant_a,desktop,CA
+26352,2026-10-29 19:58:57,Video,c_youtube_tech,variant_A,desktop,US
 26353,2026-10-29 13:59:12,video,c_youtube_tech,variant_B,mobile,de
-26354,2026-10-29 11:40:48,social broad,c_social_broad_scale,Variant_b,mobile,US
+26354,2026-10-29 11:40:48,social broad,c_social_broad_scale,Variant_b,desktop,US
 26355,2026-10-29 18:18:54,social broad,c_social_broad_scale,Variant_b,mobile,ca
 26356,2026-10-29 08:29:13,Social Broad,c_social_broad_scale,Variant_b,mobile,DE
-26357,2026-10-29 11:42:30,Social Broad,c_social_broad_scale,variant_b,desktop,ca
+26357,2026-10-29 11:42:30,Social Broad,c_social_broad_scale,variant_b,tablet,ca
 26358,2026-10-29 18:39:28,Social Broad,c_social_broad_scale,Variant_b,mobile,US
 26359,2026-10-29 06:22:22,Social Broad,c_social_broad_scale,variant_B,desktop,us
-26360,2026-10-29 22:02:44,social broad,c_social_broad_scale,Variant_b,mobile,US
+26360,2026-10-29 22:02:44,social broad,c_social_broad_scale,Variant_b,tablet,US
 26361,2026-10-29 23:42:20,social broad,c_social_broad_scale,Variant_b,mobile,US
-26362,2026-10-29 12:07:44,Social Broad,c_social_broad_scale,variant_b,desktop,US
+26362,2026-10-29 12:07:44,Social Broad,c_social_broad_scale,variant_b,mobile,US
 26363,2026-10-29 16:42:53,social broad,c_social_broad_scale,variant_B,desktop,uk
-26364,2026-10-29 14:47:42,Social Broad,c_social_broad_scale,variant_B,mobile,CA
-26365,2026-10-29 22:08:00,Social Broad,c_social_broad_scale,Variant_b,desktop,UK
-26366,2026-10-29 21:09:13,Social Broad,c_social_broad_scale,variant_B,desktop,UK
-26367,2026-10-29 09:03:23,Social Broad,c_social_broad_scale,variant_A,mobile,USA
-26368,2026-10-29 22:36:52,Social Broad,c_social_broad_scale,variant_b,mobile,US
-26369,2026-10-29 16:12:42,Social Broad,c_social_broad_scale,Variant_b,mobile,ca
+26364,2026-10-29 14:47:42,Social Broad,c_social_broad_scale,variant_B,tablet,CA
+26365,2026-10-29 22:08:00,Social Broad,c_social_broad_scale,Variant_b,mobile,UK
+26366,2026-10-29 21:09:13,Social Broad,c_social_broad_scale,variant_B,mobile,UK
+26367,2026-10-29 09:03:23,Social Broad,c_social_broad_scale,variant_A,desktop,USA
+26368,2026-10-29 22:36:52,Social Broad,c_social_broad_scale,variant_b,desktop,US
+26369,2026-10-29 16:12:42,Social Broad,c_social_broad_scale,Variant_b,tablet,ca
 26370,2026-10-29 17:04:59,Social Broad,c_social_broad_scale,variant_a,desktop,DE
 26371,2026-10-29 21:32:05,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
 26372,2026-10-29 17:53:05,Social Broad,c_social_broad_scale,variant_B,mobile,DE
-26373,2026-10-29 15:51:12,Social Broad,c_social_broad_scale,Variant_b,mobile,USA
-26374,2026-10-29 17:39:49,social broad,c_social_broad_scale,variant_b,mobile,US
-26375,2026-10-29 06:44:02,Social Broad,c_social_broad_scale,variant_B,mobile,USA
+26373,2026-10-29 15:51:12,Social Broad,c_social_broad_scale,Variant_b,desktop,USA
+26374,2026-10-29 17:39:49,social broad,c_social_broad_scale,variant_b,desktop,US
+26375,2026-10-29 06:44:02,Social Broad,c_social_broad_scale,variant_B,desktop,USA
 26376,2026-10-29 21:10:50,social broad,c_social_broad_scale,variant_B,desktop,DE
 26377,2026-10-29 17:44:55,Social Broad,c_social_broad_scale,Variant_b,desktop,de
-26378,2026-10-29 08:37:11,Social Broad,c_social_broad_scale,variant_b,mobile,UK
+26378,2026-10-29 08:37:11,Social Broad,c_social_broad_scale,variant_b,desktop,UK
 26379,2026-10-29 06:15:04,Social Broad,c_social_broad_scale,Variant_b,desktop,UK
 26380,2026-10-29 18:36:07,social broad,c_social_broad_scale,Variant_b,mobile,DE
 26381,2026-10-29 07:15:00,Social Broad,c_social_broad_scale,variant_B,mobile,ca
-26382,2026-10-29 16:33:01,Social Broad,c_social_broad_scale,variant_b,mobile,ca
-26383,2026-10-29 05:01:51,Social Broad,c_social_broad_scale,variant_A,mobile,US
+26382,2026-10-29 16:33:01,Social Broad,c_social_broad_scale,variant_b,desktop,ca
+26383,2026-10-29 05:01:51,Social Broad,c_social_broad_scale,variant_A,desktop,US
 26384,2026-10-29 09:30:09,social broad,c_social_broad_scale,variant_A,desktop,FR
-26385,2026-10-29 03:21:56,social broad,c_social_broad_scale,Variant_b,tablet,FR
-26386,2026-10-29 16:52:13,social broad,c_social_broad_scale,Variant_b,mobile,US
+26385,2026-10-29 03:21:56,social broad,c_social_broad_scale,Variant_b,mobile,FR
+26386,2026-10-29 16:52:13,social broad,c_social_broad_scale,Variant_b,tablet,US
 26387,2026-10-29 05:09:17,Social Broad,c_social_broad_scale,variant_B,desktop,CA
-26388,2026-10-29 13:04:05,social broad,c_social_broad_scale,variant_B,mobile,DE
-26389,2026-10-29 01:23:37,Social Broad,c_social_broad_scale,variant_a,desktop,USA
+26388,2026-10-29 13:04:05,social broad,c_social_broad_scale,variant_B,desktop,DE
+26389,2026-10-29 01:23:37,Social Broad,c_social_broad_scale,variant_a,mobile,USA
 26390,2026-10-29 00:05:30,social broad,c_social_broad_scale,Variant_b,mobile,
 26391,2026-10-29 11:35:53,social broad,c_social_broad_scale,variant_b,desktop,FR
 26392,2026-10-29 18:31:23,social broad,c_social_broad_scale,variant_B,mobile,CA
 26393,2026-10-29 21:06:28,Social Broad,c_social_broad_scale,variant_B,mobile,uk
-26394,2026-10-29 07:33:01,Social Broad,c_social_broad_scale,variant_b,mobile,US
-26395,2026-10-29 03:52:31,Social Broad,c_social_broad_scale,variant_b,mobile,de
-26396,2026-10-29 07:41:35,social broad,c_social_broad_scale,Variant_a,mobile,US
+26394,2026-10-29 07:33:01,Social Broad,c_social_broad_scale,variant_b,tablet,US
+26395,2026-10-29 03:52:31,Social Broad,c_social_broad_scale,variant_b,desktop,de
+26396,2026-10-29 07:41:35,social broad,c_social_broad_scale,Variant_a,tablet,US
 26397,2026-10-29 12:08:36,Social Broad,c_social_broad_scale,variant_B,desktop,US
-26398,2026-10-29 08:49:38,Social Broad,c_social_broad_scale,variant_b,desktop,USA
+26398,2026-10-29 08:49:38,Social Broad,c_social_broad_scale,variant_b,mobile,USA
 26399,2026-10-29 02:59:38,social broad,c_social_broad_scale,Variant_b,mobile,US
 26400,2026-10-29 14:31:06,social broad,c_social_broad_scale,variant_b,desktop,CA
-26401,2026-10-29 00:30:20,social broad,c_social_broad_scale,Variant_b,desktop,US
+26401,2026-10-29 00:30:20,social broad,c_social_broad_scale,Variant_b,mobile,US
 26402,2026-10-29 07:41:29,social broad,c_social_broad_scale,variant_b,desktop,CA
 26403,2026-10-29 12:51:59,Social Broad,c_social_broad_scale,variant_b,desktop,DE
-26404,2026-10-29 05:32:02,social broad,c_social_broad_scale,Variant_b,mobile,us
-26405,2026-10-29 20:14:01,social broad,c_social_broad_scale,variant_b,mobile,DE
+26404,2026-10-29 05:32:02,social broad,c_social_broad_scale,Variant_b,desktop,us
+26405,2026-10-29 20:14:01,social broad,c_social_broad_scale,variant_b,desktop,DE
 26406,2026-10-29 09:10:42,social broad,c_social_broad_scale,Variant_b,desktop,USA
 26407,2026-10-29 12:09:10,social broad,c_social_broad_scale,variant_b,mobile,US
 26408,2026-10-29 12:53:48,social broad,c_social_broad_scale,variant_b,desktop,US
-26409,2026-10-29 19:31:20,social broad,c_social_broad_scale,variant_B,mobile,ca
+26409,2026-10-29 19:31:20,social broad,c_social_broad_scale,variant_B,desktop,ca
 26410,2026-10-29 09:36:32,Social Broad,c_social_broad_scale,variant_B,desktop,us
-26411,2026-10-29 08:27:14,Social Broad,c_social_broad_scale,Variant_a,mobile,USA
+26411,2026-10-29 08:27:14,Social Broad,c_social_broad_scale,Variant_a,desktop,USA
 26412,2026-10-29 12:59:09,Social Broad,c_social_broad_scale,variant_B,desktop,UK
 26413,2026-10-29 23:56:18,Social Broad,c_social_broad_scale,variant_B,desktop,DE
-26414,2026-10-29 02:08:30,Social Broad,c_social_broad_scale,Variant_b,mobile,US
+26414,2026-10-29 02:08:30,Social Broad,c_social_broad_scale,Variant_b,desktop,US
 26415,2026-10-29 03:45:55,social broad,c_social_broad_scale,Variant_b,desktop,us
-26416,2026-10-29 01:26:18,social broad,c_social_broad_scale,Variant_b,tablet,uk
+26416,2026-10-29 01:26:18,social broad,c_social_broad_scale,Variant_b,mobile,uk
 26417,2026-10-29 02:26:54,Social Broad,c_social_broad_scale,variant_b,mobile,
 26418,2026-10-29 01:12:11,Social Broad,c_social_broad_scale,Variant_b,desktop,US
-26419,2026-10-29 23:04:32,Social Broad,c_social_broad_scale,Variant_b,mobile,UK
-26420,2026-10-29 09:02:48,social broad,c_social_broad_scale,variant_B,desktop,US
+26419,2026-10-29 23:04:32,Social Broad,c_social_broad_scale,Variant_b,desktop,UK
+26420,2026-10-29 09:02:48,social broad,c_social_broad_scale,variant_B,mobile,US
 26421,2026-10-29 23:26:55,social broad,c_social_broad_scale,Variant_b,desktop,US
-26422,2026-10-29 15:10:41,social broad,c_social_broad_scale,variant_A,tablet,US
+26422,2026-10-29 15:10:41,social broad,c_social_broad_scale,variant_A,mobile,US
 26423,2026-10-29 18:27:09,social broad,c_social_broad_scale,variant_B,desktop,US
-26424,2026-10-29 20:12:02,Social Broad,c_social_broad_scale,variant_B,mobile,UK
-26425,2026-10-29 12:35:13,social broad,c_social_broad_scale,variant_b,desktop,de
+26424,2026-10-29 20:12:02,Social Broad,c_social_broad_scale,variant_B,desktop,UK
+26425,2026-10-29 12:35:13,social broad,c_social_broad_scale,variant_b,mobile,de
 26426,2026-10-29 08:45:25,Social Broad,c_social_broad_scale,variant_B,mobile,US
 26427,2026-10-29 02:52:05,social broad,c_social_broad_scale,variant_A,desktop,us
 26428,2026-10-29 16:49:42,social broad,c_social_broad_scale,variant_b,desktop,US
-26429,2026-10-29 19:35:36,social broad,c_social_broad_scale,variant_b,tablet,CA
-26430,2026-10-29 03:14:55,social broad,c_social_broad_scale,variant_B,desktop,us
+26429,2026-10-29 19:35:36,social broad,c_social_broad_scale,variant_b,desktop,CA
+26430,2026-10-29 03:14:55,social broad,c_social_broad_scale,variant_B,mobile,us
 26431,2026-10-29 22:39:04,Social Broad,c_social_broad_scale,Variant_b,mobile,CA
-26432,2026-10-29 06:36:25,social broad,c_social_broad_scale,variant_b,mobile,US
-26433,2026-10-29 14:23:05,social broad,c_social_broad_scale,Variant_b,mobile,USA
-26434,2026-10-29 17:40:37,social broad,c_social_broad_scale,variant_b,mobile,FR
+26432,2026-10-29 06:36:25,social broad,c_social_broad_scale,variant_b,desktop,US
+26433,2026-10-29 14:23:05,social broad,c_social_broad_scale,Variant_b,desktop,USA
+26434,2026-10-29 17:40:37,social broad,c_social_broad_scale,variant_b,desktop,FR
 26435,2026-10-29 12:59:54,social broad,c_social_broad_scale,variant_b,desktop,US
 26436,2026-10-29 10:17:09,social broad,c_social_broad_scale,variant_B,desktop,
 26437,2026-10-29 13:40:07,social broad,c_social_broad_scale,variant_B,mobile,US
-26438,2026-10-29 08:45:33,Social Broad,c_social_broad_scale,variant_B,mobile,DE
+26438,2026-10-29 08:45:33,Social Broad,c_social_broad_scale,variant_B,desktop,DE
 26439,2026-10-29 01:34:48,social broad,c_social_broad_scale,variant_b,desktop,FR
-26440,2026-10-29 15:25:36,social broad,c_social_broad_scale,variant_b,desktop,us
-26441,2026-10-29 17:19:34,social broad,c_social_broad_scale,variant_B,mobile,CA
-26442,2026-10-30 22:35:13,search,c_google_search,Variant_a,tablet,UK
-26443,2026-10-30 19:02:20,search,c_google_search,Variant_a,tablet,de
+26440,2026-10-29 15:25:36,social broad,c_social_broad_scale,variant_b,mobile,us
+26441,2026-10-29 17:19:34,social broad,c_social_broad_scale,variant_B,desktop,CA
+26442,2026-10-30 22:35:13,search,c_google_search,Variant_a,desktop,UK
+26443,2026-10-30 19:02:20,search,c_google_search,Variant_a,desktop,de
 26444,2026-10-30 17:44:31,search,c_google_search,variant_a,desktop,UK
 26445,2026-10-30 23:51:09,Search,c_google_search,variant_a,mobile,DE
 26446,2026-10-30 02:29:59,search,c_google_search,variant_a,mobile,DE
 26447,2026-10-30 05:25:56,search,c_google_search,variant_A,,US
 26448,2026-10-30 14:07:19,Search,c_google_search,Variant_b,desktop,CA
-26449,2026-10-30 21:14:47,Search,c_google_search,variant_a,mobile,CA
-26450,2026-10-30 14:10:40,Search,c_google_search,variant_a,desktop,uk
+26449,2026-10-30 21:14:47,Search,c_google_search,variant_a,desktop,CA
+26450,2026-10-30 14:10:40,Search,c_google_search,variant_a,mobile,uk
 26451,2026-10-30 08:36:19,Search,c_google_search,variant_a,desktop,CA
 26452,2026-10-30 07:17:23,search,c_google_search,Variant_a,,FR
-26453,2026-10-30 05:23:04,search,c_google_search,Variant_b,mobile,US
+26453,2026-10-30 05:23:04,search,c_google_search,Variant_b,desktop,US
 26454,2026-10-30 20:55:49,Search,c_google_search,variant_a,desktop,CA
 26455,2026-10-30 11:18:57,search,c_google_search,variant_a,mobile,uk
 26456,2026-10-30 03:01:35,search,c_google_search,variant_b,mobile,uk
 26457,2026-10-30 06:40:53,Search,c_google_search,variant_A,mobile,ca
-26458,2026-10-30 18:02:51,search,c_google_search,variant_A,mobile,CA
-26459,2026-10-30 11:19:29,search,c_google_search,Variant_a,desktop,US
-26460,2026-10-30 11:25:29,search,c_google_search,variant_B,desktop,de
-26461,2026-10-30 04:28:10,Search,c_google_search,variant_A,desktop,CA
+26458,2026-10-30 18:02:51,search,c_google_search,variant_A,desktop,CA
+26459,2026-10-30 11:19:29,search,c_google_search,Variant_a,mobile,US
+26460,2026-10-30 11:25:29,search,c_google_search,variant_B,mobile,de
+26461,2026-10-30 04:28:10,Search,c_google_search,variant_A,mobile,CA
 26462,2026-10-30 06:41:36,Search,c_google_search,variant_b,desktop,
 26463,2026-10-30 22:41:35,search,c_google_search,variant_A,mobile,US
-26464,2026-10-30 04:34:21,search,c_google_search,Variant_a,mobile,US
+26464,2026-10-30 04:34:21,search,c_google_search,Variant_a,desktop,US
 26465,2026-10-30 03:16:52,Search,c_google_search,variant_a,mobile,
-26466,2026-10-30 22:00:21,Search,c_google_search,variant_A,mobile,US
-26467,2026-10-30 11:02:31,Search,c_google_search,variant_A,desktop,US
+26466,2026-10-30 22:00:21,Search,c_google_search,variant_A,desktop,US
+26467,2026-10-30 11:02:31,Search,c_google_search,variant_A,mobile,US
 26468,2026-10-30 20:53:11,search,c_google_search,Variant_a,mobile,de
 26469,2026-10-30 14:02:49,search,c_google_search,variant_A,desktop,de
-26470,2026-10-30 20:46:24,Social,c_fb_retargeting,variant_A,mobile,de
+26470,2026-10-30 20:46:24,Social,c_fb_retargeting,variant_A,desktop,de
 26471,2026-10-30 20:03:00,Social,c_fb_retargeting,Variant_b,desktop,USA
-26472,2026-10-30 03:35:23,Social,c_fb_retargeting,Variant_a,mobile,CA
+26472,2026-10-30 03:35:23,Social,c_fb_retargeting,Variant_a,desktop,CA
 26473,2026-10-30 10:01:44,fb / social,c_fb_retargeting,Variant_b,desktop,DE
 26474,2026-10-30 14:57:23,Social,c_fb_retargeting,variant_b,,US
 26475,2026-10-30 19:51:03,fb / social,c_fb_retargeting,variant_a,mobile,us
 26476,2026-10-30 22:11:36,Social,c_fb_retargeting,Variant_a,desktop,UK
-26477,2026-10-30 01:27:40,fb / social,c_fb_retargeting,variant_A,desktop,DE
+26477,2026-10-30 01:27:40,fb / social,c_fb_retargeting,variant_A,mobile,DE
 26478,2026-10-30 19:22:41,Social,c_fb_retargeting,variant_A,mobile,US
-26479,2026-10-30 16:47:16,fb / social,c_fb_retargeting,variant_a,desktop,UK
-26480,2026-10-30 13:12:28,Social,c_fb_retargeting,Variant_a,desktop,US
+26479,2026-10-30 16:47:16,fb / social,c_fb_retargeting,variant_a,mobile,UK
+26480,2026-10-30 13:12:28,Social,c_fb_retargeting,Variant_a,mobile,US
 26481,2026-10-30 14:51:00,fb / social,c_fb_retargeting,variant_a,desktop,UK
-26482,2026-10-30 22:53:33,fb / social,c_fb_retargeting,variant_a,desktop,de
+26482,2026-10-30 22:53:33,fb / social,c_fb_retargeting,variant_a,mobile,de
 26483,2026-10-30 02:06:16,fb / social,c_fb_retargeting,Variant_b,desktop,CA
 26484,2026-10-30 09:38:42,fb / social,c_fb_retargeting,variant_A,mobile,CA
 26485,2026-10-30 03:09:26,Social,c_fb_retargeting,Variant_a,,FR
 26486,2026-10-30 05:42:39,fb / social,c_fb_retargeting,Variant_a,mobile,us
 26487,2026-10-30 22:10:08,fb / social,c_fb_retargeting,Variant_a,,FR
-26488,2026-10-30 07:30:43,fb / social,c_fb_retargeting,variant_a,desktop,UK
-26489,2026-10-30 13:36:08,fb / social,c_fb_retargeting,variant_a,desktop,ca
+26488,2026-10-30 07:30:43,fb / social,c_fb_retargeting,variant_a,mobile,UK
+26489,2026-10-30 13:36:08,fb / social,c_fb_retargeting,variant_a,mobile,ca
 26490,2026-10-30 18:45:55,fb / social,c_fb_retargeting,variant_a,,ca
 26491,2026-10-30 04:38:52,fb / social,c_fb_retargeting,variant_a,desktop,FR
 26492,2026-10-30 23:28:00,fb / social,c_fb_retargeting,variant_a,mobile,US
 26493,2026-10-30 23:07:23,fb / social,c_fb_retargeting,Variant_b,desktop,USA
-26494,2026-10-30 12:13:12,fb / social,c_fb_retargeting,variant_B,tablet,US
+26494,2026-10-30 12:13:12,fb / social,c_fb_retargeting,variant_B,mobile,US
 26495,2026-10-30 06:43:04,affiliate,c_blogs_affiliate,variant_a,mobile,us
 26496,2026-10-30 02:17:10,affiliate,c_blogs_affiliate,Variant_a,desktop,ca
 26497,2026-10-30 19:10:47,affiliate,c_blogs_affiliate,variant_a,desktop,UK
-26498,2026-10-30 10:48:58,affiliate,c_blogs_affiliate,variant_a,desktop,ca
+26498,2026-10-30 10:48:58,affiliate,c_blogs_affiliate,variant_a,mobile,ca
 26499,2026-10-30 23:55:47,Affiliate,c_blogs_affiliate,variant_a,desktop,ca
-26500,2026-10-30 15:26:25,Affiliate,c_blogs_affiliate,variant_a,mobile,US
-26501,2026-10-30 06:58:53,affiliate,c_blogs_affiliate,variant_A,desktop,US
+26500,2026-10-30 15:26:25,Affiliate,c_blogs_affiliate,variant_a,desktop,US
+26501,2026-10-30 06:58:53,affiliate,c_blogs_affiliate,variant_A,mobile,US
 26502,2026-10-30 10:52:05,Affiliate,c_blogs_affiliate,variant_A,mobile,US
-26503,2026-10-30 16:21:37,Video,c_youtube_tech,variant_B,desktop,FR
-26504,2026-10-30 16:37:11,Video,c_youtube_tech,variant_A,mobile,DE
-26505,2026-10-30 20:06:15,video,c_youtube_tech,Variant_a,mobile,
-26506,2026-10-30 22:46:26,video,c_youtube_tech,variant_b,tablet,UK
-26507,2026-10-30 09:45:21,video,c_youtube_tech,variant_a,desktop,us
+26503,2026-10-30 16:21:37,Video,c_youtube_tech,variant_B,mobile,FR
+26504,2026-10-30 16:37:11,Video,c_youtube_tech,variant_A,desktop,DE
+26505,2026-10-30 20:06:15,video,c_youtube_tech,Variant_a,desktop,
+26506,2026-10-30 22:46:26,video,c_youtube_tech,variant_b,mobile,UK
+26507,2026-10-30 09:45:21,video,c_youtube_tech,variant_a,mobile,us
 26508,2026-10-30 23:09:06,Video,c_youtube_tech,Variant_a,mobile,US
 26509,2026-10-30 17:03:28,video,c_youtube_tech,variant_A,mobile,DE
 26510,2026-10-30 06:10:23,video,c_youtube_tech,variant_A,desktop,US
-26511,2026-10-30 12:27:10,Video,c_youtube_tech,Variant_a,mobile,uk
-26512,2026-10-30 12:56:35,video,c_youtube_tech,variant_A,desktop,US
+26511,2026-10-30 12:27:10,Video,c_youtube_tech,Variant_a,desktop,uk
+26512,2026-10-30 12:56:35,video,c_youtube_tech,variant_A,mobile,US
 26513,2026-10-30 13:48:25,Video,c_youtube_tech,variant_A,desktop,FR
-26514,2026-10-30 05:11:53,Video,c_youtube_tech,variant_a,desktop,DE
+26514,2026-10-30 05:11:53,Video,c_youtube_tech,variant_a,mobile,DE
 26515,2026-10-30 02:30:01,video,c_youtube_tech,variant_B,mobile,DE
-26516,2026-10-30 20:00:30,Video,c_youtube_tech,variant_a,desktop,FR
-26517,2026-10-30 01:04:03,video,c_youtube_tech,variant_A,desktop,USA
+26516,2026-10-30 20:00:30,Video,c_youtube_tech,variant_a,mobile,FR
+26517,2026-10-30 01:04:03,video,c_youtube_tech,variant_A,mobile,USA
 26518,2026-10-30 13:41:23,video,c_youtube_tech,Variant_a,desktop,DE
 26519,2026-10-30 05:14:39,video,c_youtube_tech,variant_a,,US
 26520,2026-10-30 18:38:04,Video,c_youtube_tech,variant_A,mobile,US
-26521,2026-10-30 16:01:35,video,c_youtube_tech,variant_A,mobile,FR
-26522,2026-10-30 13:44:40,Video,c_youtube_tech,Variant_a,tablet,UK
+26521,2026-10-30 16:01:35,video,c_youtube_tech,variant_A,desktop,FR
+26522,2026-10-30 13:44:40,Video,c_youtube_tech,Variant_a,mobile,UK
 26523,2026-10-30 17:27:23,Video,c_youtube_tech,variant_A,desktop,FR
 26524,2026-10-30 14:48:28,video,c_youtube_tech,Variant_a,mobile,US
 26525,2026-10-30 21:39:42,video,c_youtube_tech,variant_a,desktop,ca
 26526,2026-10-30 22:33:27,Video,c_youtube_tech,Variant_a,mobile,uk
 26527,2026-10-30 11:39:21,social broad,c_social_broad_scale,Variant_b,mobile,DE
-26528,2026-10-30 04:11:45,Social Broad,c_social_broad_scale,Variant_b,desktop,de
-26529,2026-10-30 22:29:18,social broad,c_social_broad_scale,Variant_b,desktop,US
+26528,2026-10-30 04:11:45,Social Broad,c_social_broad_scale,Variant_b,mobile,de
+26529,2026-10-30 22:29:18,social broad,c_social_broad_scale,Variant_b,mobile,US
 26530,2026-10-30 15:22:34,social broad,c_social_broad_scale,variant_B,mobile,FR
-26531,2026-10-30 07:08:56,social broad,c_social_broad_scale,variant_b,tablet,UK
-26532,2026-10-30 23:18:35,social broad,c_social_broad_scale,variant_B,mobile,uk
-26533,2026-10-30 15:24:56,social broad,c_social_broad_scale,variant_b,desktop,de
+26531,2026-10-30 07:08:56,social broad,c_social_broad_scale,variant_b,desktop,UK
+26532,2026-10-30 23:18:35,social broad,c_social_broad_scale,variant_B,desktop,uk
+26533,2026-10-30 15:24:56,social broad,c_social_broad_scale,variant_b,mobile,de
 26534,2026-10-30 15:28:28,Social Broad,c_social_broad_scale,variant_A,desktop,us
 26535,2026-10-30 23:16:22,social broad,c_social_broad_scale,variant_b,desktop,DE
-26536,2026-10-30 04:39:54,Social Broad,c_social_broad_scale,variant_B,mobile,de
-26537,2026-10-30 12:59:48,social broad,c_social_broad_scale,variant_b,mobile,FR
+26536,2026-10-30 04:39:54,Social Broad,c_social_broad_scale,variant_B,desktop,de
+26537,2026-10-30 12:59:48,social broad,c_social_broad_scale,variant_b,desktop,FR
 26538,2026-10-30 16:03:28,Social Broad,c_social_broad_scale,variant_B,mobile,USA
-26539,2026-10-30 05:17:51,social broad,c_social_broad_scale,Variant_b,desktop,ca
+26539,2026-10-30 05:17:51,social broad,c_social_broad_scale,Variant_b,mobile,ca
 26540,2026-10-30 18:04:28,social broad,c_social_broad_scale,variant_B,,de
 26541,2026-10-30 13:16:06,Social Broad,c_social_broad_scale,variant_B,mobile,USA
-26542,2026-10-30 18:53:03,Social Broad,c_social_broad_scale,variant_b,tablet,us
+26542,2026-10-30 18:53:03,Social Broad,c_social_broad_scale,variant_b,desktop,us
 26543,2026-10-30 14:00:07,social broad,c_social_broad_scale,variant_B,mobile,US
-26544,2026-10-30 10:11:34,Social Broad,c_social_broad_scale,variant_b,mobile,US
+26544,2026-10-30 10:11:34,Social Broad,c_social_broad_scale,variant_b,desktop,US
 26545,2026-10-30 12:12:38,social broad,c_social_broad_scale,Variant_b,mobile,USA
 26546,2026-10-30 11:08:45,Social Broad,c_social_broad_scale,Variant_b,desktop,ca
-26547,2026-10-30 01:54:59,Social Broad,c_social_broad_scale,variant_a,tablet,CA
-26548,2026-10-30 18:52:19,social broad,c_social_broad_scale,variant_b,desktop,CA
-26549,2026-10-30 16:37:34,Social Broad,c_social_broad_scale,variant_B,mobile,DE
+26547,2026-10-30 01:54:59,Social Broad,c_social_broad_scale,variant_a,desktop,CA
+26548,2026-10-30 18:52:19,social broad,c_social_broad_scale,variant_b,mobile,CA
+26549,2026-10-30 16:37:34,Social Broad,c_social_broad_scale,variant_B,desktop,DE
 26550,2026-10-30 06:12:55,Social Broad,c_social_broad_scale,variant_B,tablet,DE
-26551,2026-10-30 08:13:59,social broad,c_social_broad_scale,Variant_b,desktop,US
-26552,2026-10-30 16:09:49,Social Broad,c_social_broad_scale,Variant_b,mobile,de
+26551,2026-10-30 08:13:59,social broad,c_social_broad_scale,Variant_b,mobile,US
+26552,2026-10-30 16:09:49,Social Broad,c_social_broad_scale,Variant_b,desktop,de
 26553,2026-10-30 09:20:21,social broad,c_social_broad_scale,Variant_b,mobile,us
-26554,2026-10-30 04:27:03,Social Broad,c_social_broad_scale,variant_B,mobile,us
-26555,2026-10-30 06:37:13,social broad,c_social_broad_scale,variant_b,mobile,US
-26556,2026-10-30 21:11:59,Social Broad,c_social_broad_scale,Variant_b,mobile,FR
-26557,2026-10-30 15:50:35,social broad,c_social_broad_scale,variant_B,mobile,
-26558,2026-10-30 02:26:28,Social Broad,c_social_broad_scale,variant_b,desktop,DE
+26554,2026-10-30 04:27:03,Social Broad,c_social_broad_scale,variant_B,desktop,us
+26555,2026-10-30 06:37:13,social broad,c_social_broad_scale,variant_b,desktop,US
+26556,2026-10-30 21:11:59,Social Broad,c_social_broad_scale,Variant_b,tablet,FR
+26557,2026-10-30 15:50:35,social broad,c_social_broad_scale,variant_B,desktop,
+26558,2026-10-30 02:26:28,Social Broad,c_social_broad_scale,variant_b,mobile,DE
 26559,2026-10-30 14:32:02,Social Broad,c_social_broad_scale,Variant_b,desktop,us
-26560,2026-10-30 12:26:39,Social Broad,c_social_broad_scale,variant_b,desktop,US
-26561,2026-10-30 07:26:39,Social Broad,c_social_broad_scale,variant_B,mobile,UK
+26560,2026-10-30 12:26:39,Social Broad,c_social_broad_scale,variant_b,mobile,US
+26561,2026-10-30 07:26:39,Social Broad,c_social_broad_scale,variant_B,desktop,UK
 26562,2026-10-30 03:38:23,Social Broad,c_social_broad_scale,Variant_b,desktop,US
-26563,2026-10-30 19:28:59,Social Broad,c_social_broad_scale,Variant_b,mobile,FR
+26563,2026-10-30 19:28:59,Social Broad,c_social_broad_scale,Variant_b,tablet,FR
 26564,2026-10-30 01:16:36,social broad,c_social_broad_scale,Variant_b,desktop,FR
 26565,2026-10-30 22:36:01,Social Broad,c_social_broad_scale,Variant_b,mobile,de
-26566,2026-10-30 09:53:52,Social Broad,c_social_broad_scale,variant_b,desktop,US
+26566,2026-10-30 09:53:52,Social Broad,c_social_broad_scale,variant_b,mobile,US
 26567,2026-10-30 10:20:41,Social Broad,c_social_broad_scale,variant_B,mobile,US
 26568,2026-10-30 03:51:50,social broad,c_social_broad_scale,Variant_b,mobile,FR
-26569,2026-10-30 11:09:47,Social Broad,c_social_broad_scale,Variant_b,mobile,US
-26570,2026-10-30 16:39:24,Social Broad,c_social_broad_scale,Variant_b,mobile,uk
+26569,2026-10-30 11:09:47,Social Broad,c_social_broad_scale,Variant_b,desktop,US
+26570,2026-10-30 16:39:24,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
 26571,2026-10-30 04:15:32,Social Broad,c_social_broad_scale,Variant_b,mobile,CA
 26572,2026-10-30 07:04:15,social broad,c_social_broad_scale,variant_B,mobile,US
-26573,2026-10-30 11:57:49,social broad,c_social_broad_scale,variant_b,mobile,US
+26573,2026-10-30 11:57:49,social broad,c_social_broad_scale,variant_b,desktop,US
 26574,2026-10-30 13:01:00,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
 26575,2026-10-30 08:27:00,social broad,c_social_broad_scale,Variant_b,mobile,USA
-26576,2026-10-30 05:18:10,social broad,c_social_broad_scale,variant_a,mobile,DE
-26577,2026-10-30 21:40:02,Social Broad,c_social_broad_scale,variant_B,desktop,UK
+26576,2026-10-30 05:18:10,social broad,c_social_broad_scale,variant_a,tablet,DE
+26577,2026-10-30 21:40:02,Social Broad,c_social_broad_scale,variant_B,tablet,UK
 26578,2026-10-30 12:05:39,social broad,c_social_broad_scale,variant_B,mobile,UK
 26579,2026-10-30 03:14:54,Social Broad,c_social_broad_scale,variant_B,,US
-26580,2026-10-30 02:53:58,social broad,c_social_broad_scale,Variant_a,tablet,UK
-26581,2026-10-30 14:15:21,social broad,c_social_broad_scale,Variant_b,tablet,uk
+26580,2026-10-30 02:53:58,social broad,c_social_broad_scale,Variant_a,mobile,UK
+26581,2026-10-30 14:15:21,social broad,c_social_broad_scale,Variant_b,mobile,uk
 26582,2026-10-30 14:12:36,social broad,c_social_broad_scale,variant_A,desktop,us
 26583,2026-10-30 12:23:25,Social Broad,c_social_broad_scale,Variant_a,desktop,de
 26584,2026-10-30 16:45:03,social broad,c_social_broad_scale,variant_B,desktop,US
-26585,2026-10-30 21:27:39,social broad,c_social_broad_scale,variant_B,desktop,de
-26586,2026-10-30 08:20:48,social broad,c_social_broad_scale,Variant_b,mobile,
+26585,2026-10-30 21:27:39,social broad,c_social_broad_scale,variant_B,mobile,de
+26586,2026-10-30 08:20:48,social broad,c_social_broad_scale,Variant_b,desktop,
 26587,2026-10-30 12:48:51,social broad,c_social_broad_scale,variant_b,desktop,UK
-26588,2026-10-30 17:16:47,social broad,c_social_broad_scale,variant_B,mobile,CA
-26589,2026-10-30 01:28:03,Social Broad,c_social_broad_scale,variant_B,mobile,ca
-26590,2026-10-30 11:22:09,social broad,c_social_broad_scale,variant_B,mobile,US
-26591,2026-10-30 07:08:00,Social Broad,c_social_broad_scale,variant_b,desktop,US
+26588,2026-10-30 17:16:47,social broad,c_social_broad_scale,variant_B,desktop,CA
+26589,2026-10-30 01:28:03,Social Broad,c_social_broad_scale,variant_B,desktop,ca
+26590,2026-10-30 11:22:09,social broad,c_social_broad_scale,variant_B,desktop,US
+26591,2026-10-30 07:08:00,Social Broad,c_social_broad_scale,variant_b,mobile,US
 26592,2026-10-30 02:28:32,social broad,c_social_broad_scale,variant_B,desktop,UK
-26593,2026-10-30 06:21:58,social broad,c_social_broad_scale,variant_B,desktop,uk
-26594,2026-10-30 03:58:44,Social Broad,c_social_broad_scale,variant_b,desktop,ca
-26595,2026-10-30 16:26:07,Social Broad,c_social_broad_scale,variant_b,tablet,CA
+26593,2026-10-30 06:21:58,social broad,c_social_broad_scale,variant_B,mobile,uk
+26594,2026-10-30 03:58:44,Social Broad,c_social_broad_scale,variant_b,mobile,ca
+26595,2026-10-30 16:26:07,Social Broad,c_social_broad_scale,variant_b,mobile,CA
 26596,2026-10-30 19:19:03,social broad,c_social_broad_scale,variant_a,mobile,us
 26597,2026-10-30 00:29:21,Social Broad,c_social_broad_scale,variant_a,desktop,US
-26598,2026-10-30 10:49:54,Social Broad,c_social_broad_scale,Variant_b,mobile,uk
+26598,2026-10-30 10:49:54,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
 26599,2026-10-30 08:04:12,Social Broad,c_social_broad_scale,variant_b,desktop,UK
-26600,2026-10-30 02:49:02,Social Broad,c_social_broad_scale,variant_B,mobile,FR
+26600,2026-10-30 02:49:02,Social Broad,c_social_broad_scale,variant_B,tablet,FR
 26601,2026-10-30 20:50:38,Social Broad,c_social_broad_scale,variant_b,desktop,US
 26602,2026-10-30 07:58:19,social broad,c_social_broad_scale,Variant_b,mobile,USA
-26603,2026-10-30 21:50:12,Social Broad,c_social_broad_scale,variant_B,desktop,FR
-26604,2026-10-30 04:13:20,Social Broad,c_social_broad_scale,Variant_b,desktop,UK
-26605,2026-10-30 17:17:16,social broad,c_social_broad_scale,Variant_b,desktop,US
-26606,2026-10-30 23:47:53,social broad,c_social_broad_scale,Variant_b,desktop,FR
-26607,2026-10-30 16:53:49,social broad,c_social_broad_scale,variant_b,mobile,FR
-26608,2026-10-30 04:14:49,social broad,c_social_broad_scale,variant_b,desktop,US
-26609,2026-10-30 22:00:04,social broad,c_social_broad_scale,variant_b,mobile,UK
+26603,2026-10-30 21:50:12,Social Broad,c_social_broad_scale,variant_B,mobile,FR
+26604,2026-10-30 04:13:20,Social Broad,c_social_broad_scale,Variant_b,mobile,UK
+26605,2026-10-30 17:17:16,social broad,c_social_broad_scale,Variant_b,mobile,US
+26606,2026-10-30 23:47:53,social broad,c_social_broad_scale,Variant_b,mobile,FR
+26607,2026-10-30 16:53:49,social broad,c_social_broad_scale,variant_b,desktop,FR
+26608,2026-10-30 04:14:49,social broad,c_social_broad_scale,variant_b,mobile,US
+26609,2026-10-30 22:00:04,social broad,c_social_broad_scale,variant_b,desktop,UK
 26610,2026-10-30 19:45:27,social broad,c_social_broad_scale,Variant_b,mobile,US
-26611,2026-10-30 18:45:23,social broad,c_social_broad_scale,Variant_b,mobile,DE
-26612,2026-10-30 14:54:32,social broad,c_social_broad_scale,variant_B,mobile,FR
-26613,2026-10-30 20:19:16,social broad,c_social_broad_scale,variant_b,desktop,uk
-26614,2026-10-30 19:09:48,Social Broad,c_social_broad_scale,Variant_b,mobile,ca
+26611,2026-10-30 18:45:23,social broad,c_social_broad_scale,Variant_b,desktop,DE
+26612,2026-10-30 14:54:32,social broad,c_social_broad_scale,variant_B,desktop,FR
+26613,2026-10-30 20:19:16,social broad,c_social_broad_scale,variant_b,mobile,uk
+26614,2026-10-30 19:09:48,Social Broad,c_social_broad_scale,Variant_b,desktop,ca
 26615,2026-10-30 03:16:28,social broad,c_social_broad_scale,variant_B,mobile,US
 26616,2026-10-30 16:13:45,social broad,c_social_broad_scale,variant_b,mobile,UK
 26617,2026-10-30 04:17:28,social broad,c_social_broad_scale,Variant_b,mobile,ca
-26618,2026-10-30 05:26:26,social broad,c_social_broad_scale,variant_B,mobile,us
+26618,2026-10-30 05:26:26,social broad,c_social_broad_scale,variant_B,desktop,us
 26619,2026-10-30 08:21:30,Social Broad,c_social_broad_scale,variant_b,desktop,us
 26620,2026-10-30 20:23:30,Social Broad,c_social_broad_scale,Variant_a,mobile,de
 26621,2026-10-30 13:36:01,Social Broad,c_social_broad_scale,variant_b,mobile,
 26622,2026-10-30 06:29:08,Social Broad,c_social_broad_scale,variant_b,desktop,DE
-26623,2026-10-30 17:55:33,Social Broad,c_social_broad_scale,Variant_b,mobile,DE
+26623,2026-10-30 17:55:33,Social Broad,c_social_broad_scale,Variant_b,desktop,DE
 26624,2026-10-30 15:31:43,Social Broad,c_social_broad_scale,Variant_b,desktop,CA
-26625,2026-10-30 13:17:50,social broad,c_social_broad_scale,variant_b,desktop,DE
-26626,2026-10-30 20:24:27,social broad,c_social_broad_scale,variant_b,mobile,uk
-26627,2026-10-30 00:28:02,Social Broad,c_social_broad_scale,Variant_b,mobile,FR
+26625,2026-10-30 13:17:50,social broad,c_social_broad_scale,variant_b,tablet,DE
+26626,2026-10-30 20:24:27,social broad,c_social_broad_scale,variant_b,desktop,uk
+26627,2026-10-30 00:28:02,Social Broad,c_social_broad_scale,Variant_b,desktop,FR
 26628,2026-10-30 08:45:34,Social Broad,c_social_broad_scale,Variant_b,mobile,US
-26629,2026-10-30 16:52:43,social broad,c_social_broad_scale,variant_B,mobile,US
-26630,2026-10-30 16:15:01,social broad,c_social_broad_scale,Variant_b,desktop,DE
-26631,2026-10-30 03:02:26,Social Broad,c_social_broad_scale,Variant_b,mobile,US
+26629,2026-10-30 16:52:43,social broad,c_social_broad_scale,variant_B,desktop,US
+26630,2026-10-30 16:15:01,social broad,c_social_broad_scale,Variant_b,mobile,DE
+26631,2026-10-30 03:02:26,Social Broad,c_social_broad_scale,Variant_b,desktop,US
 26632,2026-10-30 01:13:50,Social Broad,c_social_broad_scale,Variant_b,desktop,FR
 26633,2026-10-31 05:31:39,search,c_google_search,Variant_a,desktop,CA
 26634,2026-10-31 21:04:42,Search,c_google_search,variant_B,desktop,US
-26635,2026-10-31 16:59:20,search,c_google_search,Variant_a,mobile,USA
-26636,2026-10-31 14:23:21,search,c_google_search,variant_A,mobile,de
-26637,2026-10-31 00:48:54,Search,c_google_search,variant_b,mobile,us
-26638,2026-10-31 13:38:43,Search,c_google_search,variant_a,desktop,FR
-26639,2026-10-31 04:25:42,Search,c_google_search,variant_A,mobile,USA
-26640,2026-10-31 07:21:20,search,c_google_search,Variant_a,desktop,US
-26641,2026-10-31 12:19:11,Search,c_google_search,Variant_b,desktop,us
-26642,2026-10-31 21:17:54,Search,c_google_search,variant_a,mobile,US
+26635,2026-10-31 16:59:20,search,c_google_search,Variant_a,desktop,USA
+26636,2026-10-31 14:23:21,search,c_google_search,variant_A,desktop,de
+26637,2026-10-31 00:48:54,Search,c_google_search,variant_b,desktop,us
+26638,2026-10-31 13:38:43,Search,c_google_search,variant_a,mobile,FR
+26639,2026-10-31 04:25:42,Search,c_google_search,variant_A,desktop,USA
+26640,2026-10-31 07:21:20,search,c_google_search,Variant_a,tablet,US
+26641,2026-10-31 12:19:11,Search,c_google_search,Variant_b,mobile,us
+26642,2026-10-31 21:17:54,Search,c_google_search,variant_a,desktop,US
 26643,2026-10-31 12:02:30,Search,c_google_search,variant_a,desktop,USA
-26644,2026-10-31 05:40:51,Search,c_google_search,Variant_a,mobile,US
-26645,2026-10-31 15:56:59,Search,c_google_search,Variant_a,mobile,DE
+26644,2026-10-31 05:40:51,Search,c_google_search,Variant_a,desktop,US
+26645,2026-10-31 15:56:59,Search,c_google_search,Variant_a,desktop,DE
 26646,2026-10-31 02:55:30,Search,c_google_search,variant_a,desktop,DE
 26647,2026-10-31 14:29:51,Search,c_google_search,variant_A,desktop,US
-26648,2026-10-31 23:24:04,search,c_google_search,Variant_a,desktop,FR
-26649,2026-10-31 22:28:42,search,c_google_search,variant_A,desktop,us
+26648,2026-10-31 23:24:04,search,c_google_search,Variant_a,mobile,FR
+26649,2026-10-31 22:28:42,search,c_google_search,variant_A,mobile,us
 26650,2026-10-31 00:30:15,search,c_google_search,Variant_b,desktop,us
-26651,2026-10-31 03:32:21,Search,c_google_search,variant_A,tablet,UK
-26652,2026-10-31 20:02:59,search,c_google_search,variant_a,desktop,US
-26653,2026-10-31 10:39:38,Search,c_google_search,variant_a,mobile,DE
-26654,2026-10-31 15:39:12,Search,c_google_search,Variant_b,desktop,
-26655,2026-10-31 13:22:24,Search,c_google_search,Variant_a,desktop,US
-26656,2026-10-31 05:55:28,search,c_google_search,variant_a,desktop,us
-26657,2026-10-31 18:22:51,search,c_google_search,Variant_a,mobile,us
-26658,2026-10-31 17:54:06,search,c_google_search,variant_b,desktop,US
-26659,2026-10-31 07:12:16,Search,c_google_search,variant_a,desktop,us
+26651,2026-10-31 03:32:21,Search,c_google_search,variant_A,desktop,UK
+26652,2026-10-31 20:02:59,search,c_google_search,variant_a,mobile,US
+26653,2026-10-31 10:39:38,Search,c_google_search,variant_a,desktop,DE
+26654,2026-10-31 15:39:12,Search,c_google_search,Variant_b,mobile,
+26655,2026-10-31 13:22:24,Search,c_google_search,Variant_a,mobile,US
+26656,2026-10-31 05:55:28,search,c_google_search,variant_a,tablet,us
+26657,2026-10-31 18:22:51,search,c_google_search,Variant_a,desktop,us
+26658,2026-10-31 17:54:06,search,c_google_search,variant_b,tablet,US
+26659,2026-10-31 07:12:16,Search,c_google_search,variant_a,mobile,us
 26660,2026-10-31 11:21:58,search,c_google_search,variant_a,mobile,US
-26661,2026-10-31 05:13:36,Search,c_google_search,variant_A,mobile,FR
-26662,2026-10-31 22:21:17,search,c_google_search,variant_a,mobile,FR
+26661,2026-10-31 05:13:36,Search,c_google_search,variant_A,desktop,FR
+26662,2026-10-31 22:21:17,search,c_google_search,variant_a,desktop,FR
 26663,2026-10-31 03:59:29,Search,c_google_search,variant_A,mobile,US
 26664,2026-10-31 04:55:12,search,c_google_search,variant_a,mobile,DE
 26665,2026-10-31 03:59:46,Search,c_google_search,variant_A,desktop,US
 26666,2026-10-31 02:20:43,search,c_google_search,variant_a,desktop,UK
 26667,2026-10-31 23:59:10,fb / social,c_fb_retargeting,variant_a,,UK
-26668,2026-10-31 20:04:59,Social,c_fb_retargeting,variant_a,desktop,USA
-26669,2026-10-31 12:34:10,Social,c_fb_retargeting,Variant_a,tablet,USA
-26670,2026-10-31 06:31:47,fb / social,c_fb_retargeting,variant_A,desktop,de
-26671,2026-10-31 01:38:21,fb / social,c_fb_retargeting,Variant_a,desktop,de
-26672,2026-10-31 18:17:44,Social,c_fb_retargeting,Variant_a,desktop,ca
-26673,2026-10-31 08:30:30,Social,c_fb_retargeting,variant_a,mobile,CA
-26674,2026-10-31 13:22:37,fb / social,c_fb_retargeting,Variant_b,mobile,UK
-26675,2026-10-31 10:56:35,fb / social,c_fb_retargeting,Variant_a,mobile,us
-26676,2026-10-31 18:05:14,fb / social,c_fb_retargeting,variant_a,mobile,de
+26668,2026-10-31 03:08:24,fb / social,c_fb_retargeting,Variant_a,mobile,USA
+26669,2026-10-31 12:05:46,fb / social,c_fb_retargeting,variant_A,mobile,UK
+26670,2026-10-31 22:27:21,Social,c_fb_retargeting,variant_B,desktop,DE
+26671,2026-10-31 01:26:56,fb / social,c_fb_retargeting,variant_b,desktop,US
+26672,2026-10-31 14:16:20,fb / social,c_fb_retargeting,Variant_a,desktop,FR
+26673,2026-10-31 10:21:42,fb / social,c_fb_retargeting,variant_a,desktop,ca
+26674,2026-10-31 22:52:33,fb / social,c_fb_retargeting,Variant_a,desktop,US
+26675,2026-10-31 10:56:35,fb / social,c_fb_retargeting,Variant_a,desktop,us
+26676,2026-10-31 18:05:14,fb / social,c_fb_retargeting,variant_a,desktop,de
 26677,2026-10-31 18:00:21,Social,c_fb_retargeting,Variant_a,mobile,
-26678,2026-10-31 20:34:58,fb / social,c_fb_retargeting,Variant_a,desktop,uk
-26679,2026-10-31 19:25:36,fb / social,c_fb_retargeting,variant_a,mobile,US
-26680,2026-10-31 02:17:25,fb / social,c_fb_retargeting,Variant_a,tablet,US
+26678,2026-10-31 20:34:58,fb / social,c_fb_retargeting,Variant_a,mobile,uk
+26679,2026-10-31 19:25:36,fb / social,c_fb_retargeting,variant_a,tablet,US
+26680,2026-10-31 02:17:25,fb / social,c_fb_retargeting,Variant_a,desktop,US
 26681,2026-10-31 02:18:17,Social,c_fb_retargeting,Variant_a,mobile,DE
 26682,2026-10-31 09:33:15,fb / social,c_fb_retargeting,variant_a,mobile,US
 26683,2026-10-31 16:04:44,Social,c_fb_retargeting,variant_A,desktop,CA
@@ -16688,130 +16688,130 @@ user_id,created_at,acquisition_channel,campaign_id,landing_variant,device,countr
 26687,2026-10-31 15:50:26,fb / social,c_fb_retargeting,Variant_a,desktop,FR
 26688,2026-10-31 20:53:20,Social,c_fb_retargeting,variant_A,desktop,de
 26689,2026-10-31 21:46:11,Social,c_fb_retargeting,Variant_a,mobile,CA
-26690,2026-10-31 08:53:07,Social,c_fb_retargeting,variant_a,desktop,FR
+26690,2026-10-31 08:53:07,Social,c_fb_retargeting,variant_a,tablet,FR
 26691,2026-10-31 09:59:10,fb / social,c_fb_retargeting,Variant_a,mobile,US
 26692,2026-10-31 06:36:39,affiliate,c_blogs_affiliate,variant_b,desktop,DE
 26693,2026-10-31 21:43:54,affiliate,c_blogs_affiliate,variant_A,desktop,DE
-26694,2026-10-31 18:32:46,Affiliate,c_blogs_affiliate,variant_a,mobile,ca
-26695,2026-10-31 00:13:02,affiliate,c_blogs_affiliate,variant_A,desktop,USA
-26696,2026-10-31 21:24:21,affiliate,c_blogs_affiliate,variant_a,desktop,uk
-26697,2026-10-31 12:05:16,Affiliate,c_blogs_affiliate,variant_A,desktop,uk
-26698,2026-10-31 22:07:15,Affiliate,c_blogs_affiliate,variant_a,mobile,FR
-26699,2026-10-31 02:14:15,video,c_youtube_tech,Variant_a,desktop,DE
+26694,2026-10-31 18:32:46,Affiliate,c_blogs_affiliate,variant_a,desktop,ca
+26695,2026-10-31 00:13:02,affiliate,c_blogs_affiliate,variant_A,mobile,USA
+26696,2026-10-31 21:24:21,affiliate,c_blogs_affiliate,variant_a,mobile,uk
+26697,2026-10-31 12:05:16,Affiliate,c_blogs_affiliate,variant_A,mobile,uk
+26698,2026-10-31 22:07:15,Affiliate,c_blogs_affiliate,variant_a,desktop,FR
+26699,2026-10-31 02:14:15,video,c_youtube_tech,Variant_a,mobile,DE
 26700,2026-10-31 03:55:39,video,c_youtube_tech,variant_A,mobile,DE
-26701,2026-10-31 08:36:56,video,c_youtube_tech,Variant_a,desktop,US
+26701,2026-10-31 08:36:56,video,c_youtube_tech,Variant_a,tablet,US
 26702,2026-10-31 01:48:07,video,c_youtube_tech,variant_a,mobile,de
-26703,2026-10-31 20:43:53,video,c_youtube_tech,Variant_a,tablet,USA
+26703,2026-10-31 20:43:53,video,c_youtube_tech,Variant_a,mobile,USA
 26704,2026-10-31 04:24:26,Video,c_youtube_tech,Variant_a,mobile,us
 26705,2026-10-31 23:03:12,Video,c_youtube_tech,variant_a,desktop,USA
-26706,2026-10-31 05:59:20,video,c_youtube_tech,variant_a,desktop,CA
+26706,2026-10-31 05:59:20,video,c_youtube_tech,variant_a,tablet,CA
 26707,2026-10-31 13:52:44,video,c_youtube_tech,Variant_a,desktop,CA
 26708,2026-10-31 06:42:07,Video,c_youtube_tech,Variant_a,mobile,us
-26709,2026-10-31 08:38:29,video,c_youtube_tech,variant_a,desktop,ca
+26709,2026-10-31 08:38:29,video,c_youtube_tech,variant_a,tablet,ca
 26710,2026-10-31 00:47:01,Video,c_youtube_tech,variant_a,desktop,FR
-26711,2026-10-31 22:27:50,Video,c_youtube_tech,variant_A,tablet,US
-26712,2026-10-31 00:39:58,video,c_youtube_tech,variant_A,desktop,de
+26711,2026-10-31 22:27:50,Video,c_youtube_tech,variant_A,mobile,US
+26712,2026-10-31 00:39:58,video,c_youtube_tech,variant_A,mobile,de
 26713,2026-10-31 22:23:50,video,c_youtube_tech,variant_a,,USA
-26714,2026-10-31 19:35:00,Video,c_youtube_tech,variant_A,desktop,US
+26714,2026-10-31 19:35:00,Video,c_youtube_tech,variant_A,mobile,US
 26715,2026-10-31 06:11:06,Video,c_youtube_tech,variant_A,,
 26716,2026-10-31 16:05:40,video,c_youtube_tech,Variant_a,mobile,USA
 26717,2026-10-31 01:19:12,video,c_youtube_tech,variant_A,desktop,USA
 26718,2026-10-31 14:44:05,video,c_youtube_tech,variant_b,desktop,
 26719,2026-10-31 18:02:28,Social Broad,c_social_broad_scale,variant_b,desktop,US
-26720,2026-10-31 10:53:40,social broad,c_social_broad_scale,variant_b,desktop,US
+26720,2026-10-31 10:53:40,social broad,c_social_broad_scale,variant_b,mobile,US
 26721,2026-10-31 11:53:07,Social Broad,c_social_broad_scale,Variant_b,desktop,ca
-26722,2026-10-31 02:37:53,Social Broad,c_social_broad_scale,variant_B,tablet,us
+26722,2026-10-31 02:37:53,Social Broad,c_social_broad_scale,variant_B,mobile,us
 26723,2026-10-31 16:14:35,social broad,c_social_broad_scale,variant_B,desktop,US
 26724,2026-10-31 19:10:44,social broad,c_social_broad_scale,variant_B,mobile,US
-26725,2026-10-31 10:40:01,social broad,c_social_broad_scale,Variant_b,mobile,ca
+26725,2026-10-31 10:40:01,social broad,c_social_broad_scale,Variant_b,desktop,ca
 26726,2026-10-31 13:57:47,Social Broad,c_social_broad_scale,Variant_a,mobile,US
-26727,2026-10-31 16:50:33,social broad,c_social_broad_scale,variant_B,desktop,de
+26727,2026-10-31 16:50:33,social broad,c_social_broad_scale,variant_B,mobile,de
 26728,2026-10-31 05:14:25,social broad,c_social_broad_scale,Variant_b,mobile,US
 26729,2026-10-31 02:10:53,Social Broad,c_social_broad_scale,variant_B,mobile,DE
-26730,2026-10-31 06:08:53,Social Broad,c_social_broad_scale,variant_b,desktop,UK
-26731,2026-10-31 17:36:49,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
-26732,2026-10-31 11:35:34,Social Broad,c_social_broad_scale,Variant_a,tablet,CA
-26733,2026-10-31 04:27:30,social broad,c_social_broad_scale,Variant_b,mobile,FR
-26734,2026-10-31 20:12:36,Social Broad,c_social_broad_scale,variant_B,desktop,US
+26730,2026-10-31 06:08:53,Social Broad,c_social_broad_scale,variant_b,mobile,UK
+26731,2026-10-31 17:36:49,Social Broad,c_social_broad_scale,Variant_b,mobile,uk
+26732,2026-10-31 11:35:34,Social Broad,c_social_broad_scale,Variant_a,mobile,CA
+26733,2026-10-31 04:27:30,social broad,c_social_broad_scale,Variant_b,desktop,FR
+26734,2026-10-31 20:12:36,Social Broad,c_social_broad_scale,variant_B,mobile,US
 26735,2026-10-31 01:15:15,Social Broad,c_social_broad_scale,variant_A,mobile,US
 26736,2026-10-31 12:59:30,Social Broad,c_social_broad_scale,Variant_b,desktop,us
-26737,2026-10-31 06:28:03,Social Broad,c_social_broad_scale,variant_B,desktop,UK
-26738,2026-10-31 12:33:07,Social Broad,c_social_broad_scale,Variant_b,desktop,US
-26739,2026-10-31 21:38:40,Social Broad,c_social_broad_scale,variant_b,desktop,US
-26740,2026-10-31 19:12:11,social broad,c_social_broad_scale,Variant_b,mobile,de
-26741,2026-10-31 05:56:08,social broad,c_social_broad_scale,Variant_b,mobile,US
-26742,2026-10-31 04:57:17,Social Broad,c_social_broad_scale,variant_b,mobile,us
+26737,2026-10-31 06:28:03,Social Broad,c_social_broad_scale,variant_B,mobile,UK
+26738,2026-10-31 12:33:07,Social Broad,c_social_broad_scale,Variant_b,mobile,US
+26739,2026-10-31 21:38:40,Social Broad,c_social_broad_scale,variant_b,tablet,US
+26740,2026-10-31 19:12:11,social broad,c_social_broad_scale,Variant_b,tablet,de
+26741,2026-10-31 05:56:08,social broad,c_social_broad_scale,Variant_b,desktop,US
+26742,2026-10-31 04:57:17,Social Broad,c_social_broad_scale,variant_b,desktop,us
 26743,2026-10-31 01:48:34,Social Broad,c_social_broad_scale,variant_a,desktop,USA
-26744,2026-10-31 21:26:20,Social Broad,c_social_broad_scale,variant_b,mobile,USA
-26745,2026-10-31 06:45:29,Social Broad,c_social_broad_scale,Variant_a,desktop,FR
+26744,2026-10-31 21:26:20,Social Broad,c_social_broad_scale,variant_b,desktop,USA
+26745,2026-10-31 06:45:29,Social Broad,c_social_broad_scale,Variant_a,mobile,FR
 26746,2026-10-31 23:46:44,social broad,c_social_broad_scale,variant_b,desktop,US
 26747,2026-10-31 22:02:38,Social Broad,c_social_broad_scale,Variant_b,mobile,UK
-26748,2026-10-31 04:33:50,Social Broad,c_social_broad_scale,variant_A,desktop,ca
-26749,2026-10-31 14:49:22,social broad,c_social_broad_scale,variant_b,desktop,FR
+26748,2026-10-31 04:33:50,Social Broad,c_social_broad_scale,variant_A,mobile,ca
+26749,2026-10-31 14:49:22,social broad,c_social_broad_scale,variant_b,mobile,FR
 26750,2026-10-31 10:26:26,Social Broad,c_social_broad_scale,Variant_b,desktop,ca
 26751,2026-10-31 11:08:32,social broad,c_social_broad_scale,variant_A,desktop,de
-26752,2026-10-31 08:57:09,Social Broad,c_social_broad_scale,Variant_b,mobile,us
-26753,2026-10-31 10:06:50,Social Broad,c_social_broad_scale,variant_b,tablet,US
-26754,2026-10-31 10:22:04,social broad,c_social_broad_scale,Variant_b,mobile,USA
+26752,2026-10-31 08:57:09,Social Broad,c_social_broad_scale,Variant_b,desktop,us
+26753,2026-10-31 10:06:50,Social Broad,c_social_broad_scale,variant_b,desktop,US
+26754,2026-10-31 10:22:04,social broad,c_social_broad_scale,Variant_b,tablet,USA
 26755,2026-10-31 04:55:30,social broad,c_social_broad_scale,Variant_b,mobile,uk
-26756,2026-10-31 14:20:54,social broad,c_social_broad_scale,Variant_b,mobile,uk
+26756,2026-10-31 14:20:54,social broad,c_social_broad_scale,Variant_b,desktop,uk
 26757,2026-10-31 14:09:49,social broad,c_social_broad_scale,Variant_b,mobile,de
 26758,2026-10-31 14:16:38,Social Broad,c_social_broad_scale,variant_b,,CA
 26759,2026-10-31 02:56:13,social broad,c_social_broad_scale,Variant_b,mobile,US
 26760,2026-10-31 03:53:08,social broad,c_social_broad_scale,Variant_b,desktop,US
 26761,2026-10-31 15:15:05,social broad,c_social_broad_scale,variant_b,mobile,USA
 26762,2026-10-31 03:55:31,social broad,c_social_broad_scale,Variant_b,desktop,uk
-26763,2026-10-31 09:10:33,social broad,c_social_broad_scale,Variant_b,mobile,us
-26764,2026-10-31 10:40:46,Social Broad,c_social_broad_scale,Variant_b,mobile,de
-26765,2026-10-31 10:20:16,social broad,c_social_broad_scale,variant_B,tablet,FR
+26763,2026-10-31 09:10:33,social broad,c_social_broad_scale,Variant_b,desktop,us
+26764,2026-10-31 10:40:46,Social Broad,c_social_broad_scale,Variant_b,desktop,de
+26765,2026-10-31 10:20:16,social broad,c_social_broad_scale,variant_B,desktop,FR
 26766,2026-10-31 20:36:39,Social Broad,c_social_broad_scale,Variant_b,mobile,USA
 26767,2026-10-31 20:34:48,social broad,c_social_broad_scale,variant_a,desktop,FR
 26768,2026-10-31 19:04:05,social broad,c_social_broad_scale,Variant_b,mobile,DE
-26769,2026-10-31 07:04:14,social broad,c_social_broad_scale,variant_b,desktop,FR
-26770,2026-10-31 02:27:45,Social Broad,c_social_broad_scale,variant_b,desktop,UK
-26771,2026-10-31 08:07:38,social broad,c_social_broad_scale,variant_B,desktop,FR
+26769,2026-10-31 07:04:14,social broad,c_social_broad_scale,variant_b,mobile,FR
+26770,2026-10-31 02:27:45,Social Broad,c_social_broad_scale,variant_b,mobile,UK
+26771,2026-10-31 08:07:38,social broad,c_social_broad_scale,variant_B,mobile,FR
 26772,2026-10-31 15:38:43,Social Broad,c_social_broad_scale,variant_B,desktop,US
-26773,2026-10-31 20:05:12,Social Broad,c_social_broad_scale,variant_b,desktop,ca
+26773,2026-10-31 20:05:12,Social Broad,c_social_broad_scale,variant_b,mobile,ca
 26774,2026-10-31 19:43:07,social broad,c_social_broad_scale,Variant_b,mobile,USA
 26775,2026-10-31 17:23:01,Social Broad,c_social_broad_scale,Variant_b,mobile,US
-26776,2026-10-31 09:46:39,Social Broad,c_social_broad_scale,variant_B,desktop,de
-26777,2026-10-31 13:38:17,social broad,c_social_broad_scale,variant_b,desktop,us
+26776,2026-10-31 09:46:39,Social Broad,c_social_broad_scale,variant_B,mobile,de
+26777,2026-10-31 13:38:17,social broad,c_social_broad_scale,variant_b,mobile,us
 26778,2026-10-31 01:46:39,Social Broad,c_social_broad_scale,variant_b,desktop,ca
-26779,2026-10-31 11:45:44,social broad,c_social_broad_scale,variant_b,desktop,US
-26780,2026-10-31 03:42:14,social broad,c_social_broad_scale,variant_b,desktop,ca
+26779,2026-10-31 11:45:44,social broad,c_social_broad_scale,variant_b,mobile,US
+26780,2026-10-31 03:42:14,social broad,c_social_broad_scale,variant_b,mobile,ca
 26781,2026-10-31 20:39:52,Social Broad,c_social_broad_scale,Variant_b,desktop,us
 26782,2026-10-31 11:08:11,social broad,c_social_broad_scale,variant_B,mobile,USA
-26783,2026-10-31 16:43:16,social broad,c_social_broad_scale,variant_b,mobile,de
+26783,2026-10-31 16:43:16,social broad,c_social_broad_scale,variant_b,desktop,de
 26784,2026-10-31 17:49:58,social broad,c_social_broad_scale,Variant_a,desktop,US
-26785,2026-10-31 12:41:21,social broad,c_social_broad_scale,variant_b,desktop,US
+26785,2026-10-31 12:41:21,social broad,c_social_broad_scale,variant_b,mobile,US
 26786,2026-10-31 21:56:26,social broad,c_social_broad_scale,Variant_b,mobile,DE
 26787,2026-10-31 10:03:57,Social Broad,c_social_broad_scale,Variant_b,mobile,CA
-26788,2026-10-31 04:23:16,social broad,c_social_broad_scale,variant_B,desktop,de
+26788,2026-10-31 04:23:16,social broad,c_social_broad_scale,variant_B,mobile,de
 26789,2026-10-31 10:03:03,Social Broad,c_social_broad_scale,variant_b,desktop,UK
-26790,2026-10-31 10:22:15,Social Broad,c_social_broad_scale,variant_B,desktop,US
+26790,2026-10-31 10:22:15,Social Broad,c_social_broad_scale,variant_B,mobile,US
 26791,2026-10-31 11:08:21,Social Broad,c_social_broad_scale,variant_a,desktop,CA
 26792,2026-10-31 11:58:05,Social Broad,c_social_broad_scale,variant_B,desktop,US
 26793,2026-10-31 04:19:23,Social Broad,c_social_broad_scale,variant_b,desktop,de
-26794,2026-10-31 17:35:38,Social Broad,c_social_broad_scale,Variant_b,desktop,uk
+26794,2026-10-31 17:35:38,Social Broad,c_social_broad_scale,Variant_b,mobile,uk
 26795,2026-10-31 21:01:10,social broad,c_social_broad_scale,Variant_b,desktop,uk
 26796,2026-10-31 20:55:09,Social Broad,c_social_broad_scale,variant_b,mobile,UK
-26797,2026-10-31 13:16:36,social broad,c_social_broad_scale,variant_B,desktop,DE
-26798,2026-10-31 05:34:21,social broad,c_social_broad_scale,variant_B,mobile,
-26799,2026-10-31 00:12:39,social broad,c_social_broad_scale,variant_B,desktop,CA
+26797,2026-10-31 13:16:36,social broad,c_social_broad_scale,variant_B,mobile,DE
+26798,2026-10-31 05:34:21,social broad,c_social_broad_scale,variant_B,desktop,
+26799,2026-10-31 00:12:39,social broad,c_social_broad_scale,variant_B,mobile,CA
 26800,2026-10-31 15:48:53,social broad,c_social_broad_scale,variant_b,desktop,FR
-26801,2026-10-31 01:36:27,social broad,c_social_broad_scale,Variant_b,mobile,US
+26801,2026-10-31 01:36:27,social broad,c_social_broad_scale,Variant_b,desktop,US
 26802,2026-10-31 12:05:09,Social Broad,c_social_broad_scale,variant_B,mobile,us
 26803,2026-10-31 09:22:12,social broad,c_social_broad_scale,variant_B,desktop,ca
 26804,2026-10-31 07:18:59,social broad,c_social_broad_scale,Variant_b,mobile,FR
 26805,2026-10-31 23:09:56,social broad,c_social_broad_scale,variant_b,mobile,USA
-26806,2026-10-31 12:30:22,social broad,c_social_broad_scale,variant_A,desktop,FR
-26807,2026-10-31 05:03:12,social broad,c_social_broad_scale,variant_b,desktop,USA
-26808,2026-10-31 03:57:53,Social Broad,c_social_broad_scale,variant_a,mobile,FR
+26806,2026-10-31 12:30:22,social broad,c_social_broad_scale,variant_A,mobile,FR
+26807,2026-10-31 05:03:12,social broad,c_social_broad_scale,variant_b,mobile,USA
+26808,2026-10-31 03:57:53,Social Broad,c_social_broad_scale,variant_a,desktop,FR
 26809,2026-10-31 17:33:04,Social Broad,c_social_broad_scale,variant_B,desktop,USA
 26810,2026-10-31 06:23:14,Social Broad,c_social_broad_scale,Variant_b,desktop,FR
 26811,2026-10-31 19:05:09,Social Broad,c_social_broad_scale,variant_b,desktop,ca
-26812,2026-10-31 15:43:06,Social Broad,c_social_broad_scale,Variant_b,mobile,ca
-26813,2026-10-31 21:08:08,social broad,c_social_broad_scale,Variant_b,mobile,USA
-26814,2026-10-31 23:38:33,social broad,c_social_broad_scale,variant_B,mobile,FR
+26812,2026-10-31 15:43:06,Social Broad,c_social_broad_scale,Variant_b,desktop,ca
+26813,2026-10-31 21:08:08,social broad,c_social_broad_scale,Variant_b,tablet,USA
+26814,2026-10-31 23:38:33,social broad,c_social_broad_scale,variant_B,desktop,FR
 26815,2026-10-31 07:46:27,social broad,c_social_broad_scale,variant_b,mobile,DE
-26816,2026-10-31 08:36:09,social broad,c_social_broad_scale,variant_B,tablet,US
+26816,2026-10-31 08:36:09,social broad,c_social_broad_scale,variant_B,desktop,US

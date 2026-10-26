@@ -236,34 +236,44 @@ def generate_edtech_dataset(output_dir=None, seed=42):
                     'trial_start': trial_time.strftime('%Y-%m-%d %H:%M:%S'),
                     'trial_end': trial_end_dt.strftime('%Y-%m-%d %H:%M:%S'),
                     'current_period_start': trial_end_dt.strftime('%Y-%m-%d %H:%M:%S'),
-                    'current_period_end': (trial_end_dt + datetime.timedelta(days=30)).strftime('%Y-%m-%d %H:%M:%S')
+                    'current_period_end': (
+                        trial_end_dt + datetime.timedelta(days=30)
+                    ).strftime('%Y-%m-%d %H:%M:%S')
                 })
-                
-                payments.append({
-                    'payment_id': pay_id_counter,
-                    'user_id': u_id,
-                    'subscription_id': sub_id,
-                    'payment_time': trial_end_dt.strftime('%Y-%m-%d %H:%M:%S'),
-                    'amount': 49.00,
-                    'currency': 'USD',
-                    'payment_status': 'succeeded',
-                    'payment_method': np.random.choice(['credit_card', 'paypal', 'apple_pay'], p=[0.7, 0.2, 0.1])
-                })
-                pay_id_counter += 1
-                
-                next_pay_dt = trial_end_dt + datetime.timedelta(days=30)
-                if next_pay_dt.date() <= end_date and random.random() < 0.75:
+
+                # Первая оплата — только до 31 октября включительно
+                if trial_end_dt.date() <= end_date:
                     payments.append({
                         'payment_id': pay_id_counter,
                         'user_id': u_id,
                         'subscription_id': sub_id,
-                        'payment_time': next_pay_dt.strftime('%Y-%m-%d %H:%M:%S'),
+                        'payment_time': trial_end_dt.strftime('%Y-%m-%d %H:%M:%S'),
                         'amount': 49.00,
                         'currency': 'USD',
                         'payment_status': 'succeeded',
-                        'payment_method': 'credit_card'
+                        'payment_method': np.random.choice(
+                            ['credit_card', 'paypal', 'apple_pay'],
+                            p=[0.7, 0.2, 0.1]
+                        )
                     })
                     pay_id_counter += 1
+
+                    # Повторная оплата — тоже только до 31 октября
+                    next_pay_dt = trial_end_dt + datetime.timedelta(days=30)
+
+                    if next_pay_dt.date() <= end_date and random.random() < 0.75:
+                        payments.append({
+                            'payment_id': pay_id_counter,
+                            'user_id': u_id,
+                            'subscription_id': sub_id,
+                            'payment_time': next_pay_dt.strftime('%Y-%m-%d %H:%M:%S'),
+                            'amount': 49.00,
+                            'currency': 'USD',
+                            'payment_status': 'succeeded',
+                            'payment_method': 'credit_card'
+                        })
+                        pay_id_counter += 1
+
             else:
                 subscriptions.append({
                     'subscription_id': sub_id,
@@ -275,8 +285,8 @@ def generate_edtech_dataset(output_dir=None, seed=42):
                     'current_period_start': trial_end_dt.strftime('%Y-%m-%d %H:%M:%S'),
                     'current_period_end': trial_end_dt.strftime('%Y-%m-%d %H:%M:%S')
                 })
-                
-                if random.random() < 0.01:
+
+                if trial_time.date() <= end_date and random.random() < 0.01:
                     payments.append({
                         'payment_id': pay_id_counter,
                         'user_id': u_id,
